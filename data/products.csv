@@ -1,0 +1,201 @@
+product_id,product_name,brand,category,price
+1,HP Thank Accessorie,HP,Accessories,389.34
+2,Adidas Design Footwea,Adidas,Footwear,1914.42
+3,Nike Individual Home Appliance,Nike,Home Appliances,1704.18
+4,Puma Rest Footwea,Puma,Footwear,881.44
+5,Puma Some Accessorie,Puma,Accessories,1005.64
+6,Sony Citizen Home Appliance,Sony,Home Appliances,295.06
+7,LG There Footwea,LG,Footwear,105.12
+8,Samsung What Accessorie,Samsung,Accessories,881.55
+9,Nike Arm Footwea,Nike,Footwear,1669.26
+10,Lenovo From Appare,Lenovo,Apparel,588.29
+11,LG Sometimes Accessorie,LG,Accessories,1315.98
+12,Nike Red Electronic,Nike,Electronics,303.75
+13,Adidas Safe Appare,Adidas,Apparel,773.67
+14,Puma Raise Appare,Puma,Apparel,1089.35
+15,Lenovo Skin Accessorie,Lenovo,Accessories,233.2
+16,Apple Others Home Appliance,Apple,Home Appliances,1054.23
+17,Adidas Citizen Accessorie,Adidas,Accessories,1808.07
+18,Adidas Point Appare,Adidas,Apparel,1622.99
+19,LG Attack Electronic,LG,Electronics,1990.08
+20,Samsung Material Home Appliance,Samsung,Home Appliances,633.73
+21,Puma Training Electronic,Puma,Electronics,897.51
+22,Dell Budget Appare,Dell,Apparel,468.38
+23,Nike Area Footwea,Nike,Footwear,306.75
+24,Samsung Push Appare,Samsung,Apparel,1975.59
+25,Puma Glass Footwea,Puma,Footwear,1141.95
+26,HP Defense Electronic,HP,Electronics,773.12
+27,Lenovo Conference Electronic,Lenovo,Electronics,1919.17
+28,Dell Accept Electronic,Dell,Electronics,576.56
+29,Puma Stand Footwea,Puma,Footwear,1980.48
+30,Dell Interview Appare,Dell,Apparel,975.41
+31,Apple Let Appare,Apple,Apparel,1819.41
+32,Dell Rule Electronic,Dell,Electronics,541.45
+33,Dell Little Home Appliance,Dell,Home Appliances,1198.27
+34,Puma Letter Electronic,Puma,Electronics,831.28
+35,Lenovo Hot Appare,Lenovo,Apparel,867.54
+36,Sony Number Footwea,Sony,Footwear,815.89
+37,Puma Painting Electronic,Puma,Electronics,599.26
+38,Adidas Key Electronic,Adidas,Electronics,1606.67
+39,LG Drop Footwea,LG,Footwear,220.98
+40,Samsung Whose Accessorie,Samsung,Accessories,965.13
+41,Adidas Really Footwea,Adidas,Footwear,1482.81
+42,HP Common Footwea,HP,Footwear,1324.79
+43,HP Upon Appare,HP,Apparel,925.33
+44,Samsung Onto Appare,Samsung,Apparel,1641.89
+45,Adidas Hard Accessorie,Adidas,Accessories,331.19
+46,Apple Probably Appare,Apple,Apparel,995.28
+47,Puma Address Home Appliance,Puma,Home Appliances,1868.97
+48,Lenovo Image Accessorie,Lenovo,Accessories,202.05
+49,Nike Particular Appare,Nike,Apparel,1973.16
+50,Adidas Today Footwea,Adidas,Footwear,143.08
+51,Samsung Behavior Appare,Samsung,Apparel,342.04
+52,Dell Our Home Appliance,Dell,Home Appliances,962.46
+53,Apple Hair Footwea,Apple,Footwear,1554.8
+54,LG Difficult Footwea,LG,Footwear,1609.95
+55,Nike Reveal Appare,Nike,Apparel,284.97
+56,Puma Center Footwea,Puma,Footwear,1977.84
+57,Samsung Close Accessorie,Samsung,Accessories,1372.64
+58,LG Series Accessorie,LG,Accessories,334.81
+59,Dell At Accessorie,Dell,Accessories,363.83
+60,LG Eat Accessorie,LG,Accessories,141.81
+61,Lenovo Morning Footwea,Lenovo,Footwear,410.67
+62,Lenovo Long Appare,Lenovo,Apparel,1998.53
+63,Adidas Certainly Footwea,Adidas,Footwear,1191.9
+64,HP Analysis Accessorie,HP,Accessories,20.3
+65,Lenovo Democratic Appare,Lenovo,Apparel,309.62
+66,Apple Authority Home Appliance,Apple,Home Appliances,989.5
+67,Lenovo Book Footwea,Lenovo,Footwear,1180.23
+68,Nike Produce Home Appliance,Nike,Home Appliances,977.75
+69,Nike Community Footwea,Nike,Footwear,1212.62
+70,LG Box Footwea,LG,Footwear,1620.91
+71,Puma Power Footwea,Puma,Footwear,50.47
+72,HP Good Appare,HP,Apparel,1485.43
+73,Lenovo Somebody Electronic,Lenovo,Electronics,1367.12
+74,Sony On Appare,Sony,Apparel,751.59
+75,LG Summer Electronic,LG,Electronics,1156.46
+76,Apple City Electronic,Apple,Electronics,1292.61
+77,HP Sport Electronic,HP,Electronics,1936.33
+78,Adidas Voice Appare,Adidas,Apparel,1669.0
+79,Apple Personal Electronic,Apple,Electronics,617.11
+80,HP Significant Home Appliance,HP,Home Appliances,714.5
+81,Puma Discuss Appare,Puma,Apparel,1779.66
+82,LG Human Home Appliance,LG,Home Appliances,522.93
+83,Dell Activity Home Appliance,Dell,Home Appliances,940.34
+84,Lenovo Structure Accessorie,Lenovo,Accessories,275.26
+85,Adidas Pull Electronic,Adidas,Electronics,905.23
+86,HP Difference Accessorie,HP,Accessories,1999.33
+87,HP Road Home Appliance,HP,Home Appliances,1716.71
+88,LG Indicate Appare,LG,Apparel,1671.42
+89,Sony Dark Home Appliance,Sony,Home Appliances,1648.64
+90,LG Appear Home Appliance,LG,Home Appliances,1777.68
+91,Dell Pass Footwea,Dell,Footwear,1527.48
+92,Nike Back Appare,Nike,Apparel,39.39
+93,Nike Step Accessorie,Nike,Accessories,698.48
+94,LG Next Appare,LG,Apparel,916.35
+95,Sony Service Home Appliance,Sony,Home Appliances,1524.21
+96,Adidas Treat Appare,Adidas,Apparel,531.55
+97,Puma Edge Appare,Puma,Apparel,1710.37
+98,Puma Understand Electronic,Puma,Electronics,725.74
+99,Nike Nice Appare,Nike,Apparel,817.59
+100,Puma Thought Footwea,Puma,Footwear,33.26
+101,Dell Choose Footwea,Dell,Footwear,279.29
+102,Nike Interest Appare,Nike,Apparel,1523.29
+103,HP Rest Accessorie,HP,Accessories,1133.69
+104,HP Be Electronic,HP,Electronics,521.26
+105,LG Issue Footwea,LG,Footwear,54.73
+106,Sony Song Electronic,Sony,Electronics,959.88
+107,Sony Have Footwea,Sony,Footwear,541.6
+108,Adidas Nature Appare,Adidas,Apparel,1073.08
+109,Apple Product Footwea,Apple,Footwear,198.38
+110,Nike Maintain Home Appliance,Nike,Home Appliances,1430.66
+111,Adidas Minute Accessorie,Adidas,Accessories,1051.28
+112,Samsung Animal Accessorie,Samsung,Accessories,1120.14
+113,Adidas Might Home Appliance,Adidas,Home Appliances,552.92
+114,Lenovo Test Electronic,Lenovo,Electronics,1449.14
+115,LG Doctor Accessorie,LG,Accessories,1974.21
+116,Adidas Stuff Footwea,Adidas,Footwear,660.4
+117,Lenovo Worry Footwea,Lenovo,Footwear,903.94
+118,Dell Field Appare,Dell,Apparel,27.74
+119,Lenovo Technology Home Appliance,Lenovo,Home Appliances,1712.86
+120,Samsung President Electronic,Samsung,Electronics,303.0
+121,Lenovo Still Electronic,Lenovo,Electronics,1278.51
+122,Puma Tend Electronic,Puma,Electronics,557.1
+123,LG Season Accessorie,LG,Accessories,594.46
+124,Sony Performance Footwea,Sony,Footwear,327.73
+125,Dell There Home Appliance,Dell,Home Appliances,122.01
+126,Samsung Quality Electronic,Samsung,Electronics,1194.18
+127,Apple Every Electronic,Apple,Electronics,1048.48
+128,LG Teach Footwea,LG,Footwear,234.04
+129,LG Whether Footwea,LG,Footwear,1651.41
+130,Sony Billion Home Appliance,Sony,Home Appliances,1072.19
+131,HP Black Electronic,HP,Electronics,1911.26
+132,Sony Air Electronic,Sony,Electronics,1479.22
+133,Lenovo Best Accessorie,Lenovo,Accessories,1303.07
+134,Samsung Goal Electronic,Samsung,Electronics,614.93
+135,Nike Issue Footwea,Nike,Footwear,1212.69
+136,Sony Region Electronic,Sony,Electronics,670.31
+137,HP Happy Footwea,HP,Footwear,669.35
+138,Dell Sea Electronic,Dell,Electronics,1990.49
+139,Sony Name Electronic,Sony,Electronics,198.61
+140,HP Live Electronic,HP,Electronics,1431.14
+141,Dell Blood Appare,Dell,Apparel,1042.4
+142,Lenovo Write Electronic,Lenovo,Electronics,1932.61
+143,Dell Agreement Appare,Dell,Apparel,982.6
+144,Puma Establish Home Appliance,Puma,Home Appliances,1173.63
+145,Apple Light Home Appliance,Apple,Home Appliances,1283.28
+146,LG Visit Home Appliance,LG,Home Appliances,230.97
+147,Puma Of Electronic,Puma,Electronics,1526.79
+148,Samsung Law Footwea,Samsung,Footwear,369.79
+149,Dell Dark Footwea,Dell,Footwear,312.13
+150,Puma Position Accessorie,Puma,Accessories,323.06
+151,HP Speech Electronic,HP,Electronics,853.66
+152,Nike College Home Appliance,Nike,Home Appliances,1175.83
+153,Apple Not Footwea,Apple,Footwear,1338.1
+154,Lenovo Morning Electronic,Lenovo,Electronics,331.77
+155,Adidas Behind Home Appliance,Adidas,Home Appliances,260.49
+156,Dell Safe Home Appliance,Dell,Home Appliances,1727.69
+157,Sony Put Footwea,Sony,Footwear,1026.0
+158,Dell Class Electronic,Dell,Electronics,144.13
+159,Dell Fall Footwea,Dell,Footwear,137.24
+160,Apple Power Home Appliance,Apple,Home Appliances,488.09
+161,Apple Event Accessorie,Apple,Accessories,375.68
+162,LG Through Home Appliance,LG,Home Appliances,545.21
+163,Lenovo Customer Accessorie,Lenovo,Accessories,1880.55
+164,Adidas Rest Home Appliance,Adidas,Home Appliances,1935.37
+165,Samsung Every Accessorie,Samsung,Accessories,1829.98
+166,Samsung Nearly Appare,Samsung,Apparel,1971.67
+167,Sony Amount Electronic,Sony,Electronics,1251.62
+168,Adidas Ball Appare,Adidas,Apparel,30.51
+169,Lenovo Reach Footwea,Lenovo,Footwear,1329.95
+170,Sony Staff Accessorie,Sony,Accessories,350.06
+171,Dell Apply Accessorie,Dell,Accessories,642.24
+172,Lenovo Play Home Appliance,Lenovo,Home Appliances,1521.1
+173,Sony Fire Electronic,Sony,Electronics,618.52
+174,Samsung Color Electronic,Samsung,Electronics,756.96
+175,HP Structure Accessorie,HP,Accessories,1548.22
+176,Nike Leave Home Appliance,Nike,Home Appliances,1089.25
+177,Samsung World Appare,Samsung,Apparel,1756.59
+178,Apple Police Footwea,Apple,Footwear,709.39
+179,Adidas Station Home Appliance,Adidas,Home Appliances,41.29
+180,Lenovo Democratic Appare,Lenovo,Apparel,538.1
+181,Lenovo Central Home Appliance,Lenovo,Home Appliances,1675.0
+182,Adidas Series Footwea,Adidas,Footwear,601.59
+183,Adidas Catch Accessorie,Adidas,Accessories,629.69
+184,Nike Build Appare,Nike,Apparel,1388.47
+185,Lenovo Down Electronic,Lenovo,Electronics,1113.06
+186,Apple Yeah Appare,Apple,Apparel,142.63
+187,Sony Letter Electronic,Sony,Electronics,703.26
+188,HP Break Electronic,HP,Electronics,638.39
+189,Lenovo Place Footwea,Lenovo,Footwear,257.29
+190,Nike Hour Appare,Nike,Apparel,902.88
+191,Lenovo Thus Appare,Lenovo,Apparel,1349.29
+192,Dell Staff Accessorie,Dell,Accessories,1747.03
+193,Sony Easy Home Appliance,Sony,Home Appliances,1795.86
+194,Apple Thus Appare,Apple,Apparel,96.82
+195,Samsung Black Home Appliance,Samsung,Home Appliances,1292.24
+196,LG Adult Appare,LG,Apparel,1261.78
+197,Nike Practice Accessorie,Nike,Accessories,984.43
+198,Adidas Professor Accessorie,Adidas,Accessories,1620.96
+199,Sony Write Electronic,Sony,Electronics,155.88
+200,Adidas Job Appare,Adidas,Apparel,961.69

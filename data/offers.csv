@@ -1,0 +1,1001 @@
+offer_id,offer_title,offer_type,category,discount_percent,valid_from,valid_till,usage_limit,offer_channel,terms
+1,Travel-6025,Cashback,Fashion,30.1,2024-05-06,2024-10-23,718,App,Simple hair probably create person rich much understand.
+2,Travel-6384,Discount,Electronics,18.52,2024-04-28,2024-11-05,799,SMS,News beautiful black outside response partner including.
+3,Electronics-3645,LoyaltyPoints,Entertainment,41.94,2025-01-24,2025-12-09,989,Website,Result worker fire most candidate.
+4,Electronics-8543,LoyaltyPoints,Entertainment,43.51,2024-09-07,2024-09-11,381,Website,Opportunity able none likely.
+5,Food-8366,LoyaltyPoints,Electronics,47.15,2024-04-11,2025-12-16,278,Website,Strong example door carry various down.
+6,Fashion-3979,Cashback,Travel,47.66,2024-04-24,2025-08-11,326,Email,Story issue table too.
+7,Food-6484,LoyaltyPoints,Fashion,11.54,2023-09-14,2025-01-27,534,App,Matter order chance choose century focus fish.
+8,Food-2794,LoyaltyPoints,Travel,18.27,2024-11-12,2025-03-22,211,SMS,Yourself choice move.
+9,Travel-8155,Discount,Travel,17.95,2024-12-06,2025-02-08,572,Website,Amount benefit region analysis discussion friend size enough.
+10,Electronics-2614,Cashback,Food,13,2025-04-01,2025-08-01,463,Email,Catch start act crime level similar enjoy.
+11,Food-5804,Discount,Electronics,37.12,2025-01-19,2025-11-15,633,Email,Crime idea out next popular begin.
+12,Electronics-1715,Cashback,Electronics,7.82,2023-12-05,2024-04-15,443,Email,Station today possible trade either.
+13,Fashion-3716,Cashback,Food,29.22,2024-02-11,2025-03-16,544,Website,Risk have question.
+14,Electronics-7021,LoyaltyPoints,Entertainment,45.69,2024-06-28,2025-07-26,459,App,Study true reach nature increase another.
+15,Electronics-2267,Coupon,Electronics,29.06,2025-03-08,2025-06-22,592,SMS,Republican throughout dark card many hit before.
+16,Food-3442,Discount,Entertainment,33.81,2024-09-08,2024-12-19,561,SMS,Congress physical sea painting.
+17,Fashion-1181,Discount,Fashion,9.71,2025-06-30,2025-12-04,155,Website,By business charge between garden.
+18,Food-5895,Discount,Travel,47.22,2025-02-17,2025-03-05,210,App,And indeed head who.
+19,Food-1683,LoyaltyPoints,Electronics,17.25,2025-02-10,2025-05-28,590,SMS,Little home chair lay pay Mrs.
+20,Electronics-1057,Cashback,Electronics,27.14,2024-05-14,2025-05-04,871,App,Born culture property magazine type candidate.
+21,Entertainment-4020,LoyaltyPoints,Food,35.67,2024-12-31,2025-07-10,880,App,Three oil adult western understand player star become.
+22,Entertainment-7130,Discount,Food,44.96,2024-01-11,2024-11-29,214,Website,Space leave green fund young.
+23,Fashion-9641,LoyaltyPoints,Travel,17.83,2024-09-05,2025-07-10,413,Email,Cold war pass condition.
+24,Electronics-7018,Discount,Food,37.95,2023-11-18,2024-06-14,254,App,Seven international food.
+25,Travel-7161,Discount,Fashion,43.85,2024-09-26,2025-11-20,564,Email,Citizen executive century raise me each.
+26,Entertainment-2701,Cashback,Fashion,30.52,2024-09-11,2025-01-15,627,App,Beat idea authority base.
+27,Food-6832,Cashback,Entertainment,11.64,2024-11-28,2025-11-01,306,Email,Simple ever PM red store form.
+28,Fashion-9049,LoyaltyPoints,Electronics,49.89,2025-05-21,2025-11-04,658,SMS,Loss address factor.
+29,Fashion-2738,Discount,Travel,37.49,2025-05-01,2025-12-07,673,Website,North young leg.
+30,Fashion-8153,Discount,Travel,17.02,2024-11-28,2025-05-01,859,Email,Important stage step student clear knowledge response.
+31,Fashion-3827,Discount,Travel,49.56,2025-02-26,2025-07-10,753,SMS,Everything although grow school yet.
+32,Entertainment-1594,Discount,Entertainment,39.02,2023-10-13,2024-10-23,460,SMS,Type simply what grow rock.
+33,Travel-5876,Discount,Travel,5.96,2025-04-02,2025-07-21,678,App,Special front whatever bill thought this.
+34,Electronics-2599,Cashback,Food,11.47,2025-01-12,2025-11-27,273,SMS,Discussion between culture full yeah management his.
+35,Entertainment-9981,Cashback,Electronics,13.46,2024-10-04,2024-12-08,899,Email,Best popular arm heavy member just.
+36,Entertainment-1341,Coupon,Fashion,10.61,2024-07-24,2025-11-16,200,Website,High partner easy record.
+37,Travel-4104,Discount,Travel,31.9,2024-08-05,2025-03-24,785,Email,Station allow meeting plant son.
+38,Fashion-8639,Discount,Food,38.24,2023-07-25,2023-11-20,785,Email,Work though dream the media draw before.
+39,Fashion-2452,Cashback,Food,19.82,2023-10-18,2025-07-18,374,SMS,Very at wonder support fire.
+40,Food-6060,Coupon,Entertainment,13.26,2024-02-24,2024-05-08,421,Website,Beyond throughout best need section quality whole local.
+41,Electronics-5975,Coupon,Travel,27.22,2025-06-12,2025-08-26,758,App,Summer address do save foot blue medical.
+42,Food-4883,Discount,Travel,22.75,2024-07-16,2025-06-15,159,Website,Not idea another simply bank.
+43,Electronics-3910,Coupon,Electronics,9.06,2023-11-22,2024-10-31,846,Website,Second read professional low whatever play analysis heart.
+44,Travel-8480,Cashback,Food,32.73,2025-01-18,2025-06-06,397,Email,Hold police measure agree.
+45,Food-4672,Discount,Travel,25.28,2025-06-17,2026-01-10,755,SMS,Science effect activity guy mouth.
+46,Entertainment-7950,Coupon,Travel,20.65,2024-05-23,2024-10-15,171,App,Program country source anyone simply easy dinner however.
+47,Food-4185,Cashback,Electronics,8.1,2023-07-28,2025-04-23,943,App,Level discuss get Congress stock yeah.
+48,Entertainment-5714,Cashback,Fashion,13.13,2025-02-07,2025-11-18,975,Email,Will me process cold western.
+49,Travel-2038,LoyaltyPoints,Electronics,15.65,2024-06-01,2024-10-16,914,Website,Another pass relate avoid.
+50,Travel-8105,LoyaltyPoints,Food,38.69,2025-02-21,2025-11-29,916,SMS,You hundred better treatment.
+51,Food-5746,Discount,Electronics,47.51,2025-06-03,2025-10-19,637,SMS,Rock whole agent send nor book theory.
+52,Travel-2338,LoyaltyPoints,Travel,27.4,2023-11-15,2025-05-18,973,App,By raise no factor.
+53,Entertainment-3631,Coupon,Fashion,49.56,2023-12-12,2024-10-01,996,Website,Which individual your next nearly remain agreement else.
+54,Fashion-3528,Discount,Fashion,22.34,2024-02-09,2025-04-17,237,Website,Nearly TV fear allow whole.
+55,Fashion-6027,Discount,Fashion,15.88,2024-10-11,2025-04-20,111,App,Tell whose want edge.
+56,Food-9438,LoyaltyPoints,Food,26.17,2023-10-19,2024-09-18,972,Website,Reason offer without board treat myself contain.
+57,Fashion-8103,LoyaltyPoints,Travel,12.7,2024-09-30,2025-02-28,172,App,Education hour technology buy pull wonder.
+58,Travel-7538,LoyaltyPoints,Food,42.74,2023-09-10,2024-01-01,392,Website,Effect rate candidate seven.
+59,Travel-9702,Cashback,Food,40.06,2024-07-25,2025-05-01,191,SMS,Skill suffer leg knowledge anything.
+60,Travel-2712,LoyaltyPoints,Entertainment,31.6,2023-09-22,2025-05-23,862,Website,Sing response well your.
+61,Food-1239,LoyaltyPoints,Fashion,48.17,2024-11-04,2025-01-24,537,Email,Send career skin son above statement easy.
+62,Travel-7912,Cashback,Travel,42.62,2024-07-07,2024-08-31,165,Email,Worry address north machine red possible challenge.
+63,Electronics-5967,Coupon,Electronics,32.94,2024-07-14,2025-03-07,330,App,Night cultural of provide little find vote.
+64,Entertainment-6455,LoyaltyPoints,Fashion,5.21,2025-06-23,2025-11-02,490,App,Culture ready yourself allow.
+65,Travel-5876,LoyaltyPoints,Travel,45.17,2024-11-27,2025-09-28,373,SMS,Room identify report southern agreement meeting.
+66,Fashion-2876,Discount,Fashion,22.72,2023-09-22,2026-01-02,496,SMS,Popular large reduce.
+67,Food-5237,Cashback,Entertainment,8.75,2025-07-10,2025-10-25,109,Website,Professor or will worker threat carry hour.
+68,Entertainment-4200,Discount,Travel,15.15,2024-10-13,2025-08-13,287,SMS,Scene agree final up.
+69,Travel-4781,Coupon,Electronics,49.94,2023-12-10,2025-07-21,267,Website,Source national language technology.
+70,Travel-7213,Discount,Electronics,12.83,2024-01-09,2025-01-13,580,SMS,Level long huge standard describe worry we.
+71,Electronics-6826,Discount,Travel,14.65,2024-09-22,2025-01-01,971,SMS,Arm concern return now.
+72,Entertainment-6242,Discount,Entertainment,15.59,2025-03-28,2025-04-05,214,Email,Teacher senior then thought for challenge impact.
+73,Entertainment-1523,Cashback,Fashion,27.51,2025-07-01,2025-08-21,944,Website,That provide reflect yourself.
+74,Food-9338,Coupon,Travel,24.13,2024-02-24,2024-09-05,482,Website,Station among structure under themselves.
+75,Food-9951,Discount,Fashion,16.75,2025-06-06,2025-06-28,84,SMS,Factor coach instead career certain.
+76,Fashion-8758,Cashback,Entertainment,33.79,2025-01-22,2025-02-24,571,Website,Should administration choice imagine.
+77,Travel-4256,LoyaltyPoints,Travel,28.98,2025-01-02,2025-11-15,686,App,Only catch week rise medical various voice.
+78,Food-1266,Coupon,Electronics,16.56,2023-08-01,2024-08-22,122,Website,Final data line listen people.
+79,Electronics-7939,Discount,Food,46.98,2024-07-02,2025-06-06,829,App,Never manager artist yes whom.
+80,Travel-3429,Discount,Food,15.5,2024-11-04,2025-05-25,990,Email,Word purpose option understand executive.
+81,Food-7038,Cashback,Food,33.26,2024-12-14,2025-10-04,183,App,True exactly great phone prepare.
+82,Travel-4201,Discount,Entertainment,25.14,2025-05-28,2025-07-29,362,Email,Edge believe network hospital reason.
+83,Electronics-1944,Discount,Entertainment,26.58,2023-12-15,2024-11-30,926,SMS,Find animal you what finally relate.
+84,Fashion-5218,Discount,Food,38.39,2023-11-30,2025-10-10,553,Email,Each front affect suffer team decide.
+85,Travel-4288,Coupon,Fashion,22.1,2023-09-22,2023-11-17,880,SMS,There agency check network response authority.
+86,Travel-5441,LoyaltyPoints,Entertainment,45.6,2024-06-23,2025-03-16,112,App,Both tough garden sure maintain effort.
+87,Entertainment-8555,Discount,Fashion,46.82,2025-06-11,2025-09-10,107,App,Issue whom choose local media wait have.
+88,Travel-8646,Cashback,Travel,24.28,2024-10-14,2026-01-15,521,Email,Last describe matter owner sing win.
+89,Electronics-6415,Cashback,Travel,26.94,2025-03-25,2026-01-07,505,SMS,Apply society institution fill agency agreement.
+90,Fashion-1809,Discount,Entertainment,17.26,2024-08-06,2024-08-26,916,App,Deal reduce lot discover director case argue.
+91,Travel-2224,LoyaltyPoints,Entertainment,38.05,2023-10-04,2025-07-29,507,Website,Develop many central strong build executive.
+92,Entertainment-6225,Discount,Electronics,25.35,2024-11-23,2025-06-07,985,Email,From risk deal discuss four less.
+93,Fashion-9824,Coupon,Fashion,24.84,2023-08-22,2023-09-24,497,App,Hit or nation politics cut rule.
+94,Food-5111,Cashback,Electronics,49.53,2025-02-04,2025-08-02,411,Email,Degree gas cup mind new least.
+95,Travel-4129,Cashback,Fashion,8.88,2024-02-28,2025-08-18,998,SMS,Rather whatever house war realize owner break office.
+96,Food-1851,Discount,Travel,5.66,2024-04-11,2024-04-16,243,Email,Part resource throughout.
+97,Electronics-7304,LoyaltyPoints,Entertainment,26.46,2023-09-25,2025-09-15,422,SMS,Amount business tell above.
+98,Electronics-4152,Cashback,Travel,21.72,2024-10-22,2025-03-17,398,App,Store concern reality might seven.
+99,Entertainment-9768,Cashback,Electronics,47.68,2025-06-11,2025-10-01,905,Email,Onto during inside participant black.
+100,Electronics-9552,LoyaltyPoints,Travel,36.15,2024-06-22,2025-04-17,997,Website,Learn manager lose ability purpose test help director.
+101,Fashion-7798,Cashback,Electronics,38.26,2025-05-01,2025-06-09,965,Email,Government collection team spring list drive.
+102,Electronics-7935,LoyaltyPoints,Travel,34.07,2024-11-13,2025-05-01,861,App,Would then happen cultural discussion teacher media.
+103,Entertainment-7939,Cashback,Electronics,48.05,2024-09-02,2024-10-28,734,Website,Year great perform point western.
+104,Entertainment-3859,Cashback,Fashion,22.81,2025-03-02,2025-11-19,225,App,Final reduce purpose position.
+105,Food-4795,Cashback,Entertainment,27.22,2024-10-06,2025-11-07,611,App,Leave whether fear without.
+106,Electronics-9988,Cashback,Entertainment,15.87,2025-02-26,2025-03-16,676,SMS,Write identify respond believe citizen crime open.
+107,Fashion-4845,Coupon,Food,46.06,2023-09-18,2025-12-14,175,App,Create challenge news western hundred.
+108,Fashion-3048,Discount,Entertainment,23.35,2025-01-30,2025-10-13,282,App,Mouth kid worry clearly special color wrong.
+109,Travel-6485,LoyaltyPoints,Fashion,41.75,2023-08-07,2025-08-22,325,SMS,Memory agreement decide seven relate though particular former.
+110,Electronics-1394,Discount,Entertainment,5.12,2024-10-01,2025-10-21,573,Website,Reason resource single college during relate.
+111,Food-4622,Discount,Travel,32.35,2024-09-26,2025-03-07,119,SMS,Identify senior carry travel cultural.
+112,Electronics-6108,LoyaltyPoints,Entertainment,49,2024-02-15,2026-01-13,420,App,Miss eight check learn.
+113,Entertainment-6254,LoyaltyPoints,Travel,29.08,2024-08-16,2025-11-25,919,SMS,Degree including themselves end.
+114,Fashion-5468,Cashback,Electronics,13.54,2024-03-11,2025-08-13,347,App,Another cover movement would memory hair.
+115,Food-6757,LoyaltyPoints,Fashion,23.79,2024-07-17,2024-07-25,272,Email,Positive agreement cold only trial.
+116,Fashion-6269,LoyaltyPoints,Fashion,33.87,2025-06-21,2025-08-04,877,App,Unit by phone concern.
+117,Travel-6842,Coupon,Travel,48.58,2025-01-24,2025-11-05,700,Website,Party parent person wonder dinner.
+118,Fashion-3825,Coupon,Entertainment,21.7,2024-01-28,2025-02-27,907,Email,Happen bit manager wonder authority.
+119,Electronics-1827,LoyaltyPoints,Entertainment,43.58,2024-01-19,2024-04-15,992,Email,Compare dinner land idea with.
+120,Entertainment-3333,Coupon,Food,6.66,2025-02-21,2025-10-08,418,SMS,Sell language argue ever despite evidence leader.
+121,Travel-7102,LoyaltyPoints,Travel,28.07,2024-03-29,2024-09-13,86,Website,Thousand fight identify recognize recent wonder nature.
+122,Electronics-5424,Coupon,Fashion,14.32,2025-04-21,2025-06-18,455,App,Result once leave peace today all.
+123,Entertainment-9540,Coupon,Electronics,24.36,2023-07-23,2024-03-04,769,App,American art ability time.
+124,Electronics-3819,Coupon,Travel,39.57,2024-07-12,2024-10-14,993,SMS,Throughout kid arm list.
+125,Food-7493,Coupon,Food,9.24,2024-05-25,2024-08-26,934,Email,All could section eat.
+126,Food-7376,Discount,Entertainment,6.54,2025-07-08,2025-10-23,919,Website,Since issue evidence major table.
+127,Fashion-1668,LoyaltyPoints,Travel,11.19,2024-07-22,2024-10-15,319,App,Let technology real call again tax Congress.
+128,Electronics-9821,Coupon,Fashion,41.14,2023-12-24,2025-04-30,298,Email,Suffer image summer miss can next condition stage.
+129,Travel-8828,LoyaltyPoints,Fashion,25.19,2023-07-29,2025-12-17,137,SMS,Western but that away as everything.
+130,Travel-9943,Discount,Electronics,36.76,2023-08-03,2024-03-25,70,App,Perhaps various receive as red the the professor.
+131,Food-8486,LoyaltyPoints,Entertainment,33.79,2024-02-06,2025-12-20,83,App,Market finally rich probably marriage.
+132,Entertainment-6692,LoyaltyPoints,Travel,18.2,2025-03-26,2025-05-25,929,Website,Pass every art itself measure woman look.
+133,Entertainment-4044,Discount,Travel,28.17,2024-01-24,2025-12-29,800,App,Paper then might something despite policy home cut.
+134,Travel-6132,Cashback,Travel,36.02,2024-02-22,2024-03-12,798,Website,News beautiful director movement say.
+135,Travel-8017,Cashback,Travel,37.53,2025-07-14,2025-10-30,743,Website,Consumer interest student.
+136,Food-1844,Discount,Entertainment,37.74,2025-05-21,2026-01-18,942,Email,Not according consumer.
+137,Travel-8009,LoyaltyPoints,Fashion,8.03,2024-05-15,2025-01-22,523,App,Effort reach great attack down.
+138,Travel-5519,Discount,Food,49.99,2023-09-03,2025-12-12,238,Email,Popular star sister by know race result draw.
+139,Electronics-2757,Discount,Fashion,42.74,2023-12-06,2025-10-30,680,Website,Nice beyond place off care visit concern.
+140,Food-6755,LoyaltyPoints,Travel,37.66,2024-07-06,2025-08-27,812,SMS,Assume part region physical pressure success member.
+141,Fashion-5841,Coupon,Food,43.81,2024-09-24,2025-01-10,954,SMS,Current describe factor rather western phone.
+142,Electronics-1789,LoyaltyPoints,Food,29.49,2024-09-14,2025-11-22,905,Email,When most indicate dark peace section between.
+143,Food-2774,Discount,Fashion,48.79,2024-04-03,2025-07-18,409,SMS,Certain only organization forget ball bag.
+144,Electronics-1853,Discount,Electronics,7.72,2023-11-08,2024-08-05,163,Website,Baby laugh house wife coach.
+145,Electronics-4874,LoyaltyPoints,Food,38.06,2023-08-26,2024-01-24,859,SMS,Single growth my laugh skin again western.
+146,Electronics-5210,Discount,Travel,17.89,2024-12-14,2025-01-05,119,App,Walk information rock.
+147,Travel-1166,LoyaltyPoints,Electronics,28.91,2024-01-17,2025-10-19,322,SMS,Particular here sound debate continue candidate view.
+148,Entertainment-9102,LoyaltyPoints,Travel,17.31,2024-11-23,2025-01-06,424,Email,Deal single him bill act source.
+149,Food-2434,Cashback,Travel,12.51,2024-03-23,2025-05-16,524,Email,Eye write black worry.
+150,Fashion-6666,Cashback,Travel,29.79,2024-05-07,2025-04-03,651,App,Red police window character scientist yet.
+151,Electronics-8439,LoyaltyPoints,Entertainment,42.02,2025-01-06,2025-06-23,116,SMS,Goal allow dog government full network live.
+152,Travel-9095,Cashback,Fashion,10.79,2023-08-25,2024-05-22,568,SMS,Officer environment increase now nothing.
+153,Entertainment-2461,Coupon,Travel,48.84,2023-09-13,2025-01-04,413,SMS,Usually at clear attack middle push trial.
+154,Entertainment-4842,LoyaltyPoints,Electronics,28.51,2023-12-11,2026-01-12,324,Email,International family PM agree easy major.
+155,Food-8625,Coupon,Fashion,43.09,2024-08-17,2025-09-20,517,App,Him for worry wonder first appear.
+156,Electronics-9058,LoyaltyPoints,Electronics,15.12,2025-02-14,2025-10-24,688,App,Yes much think reduce.
+157,Entertainment-4193,LoyaltyPoints,Food,30.32,2024-01-27,2025-08-30,617,App,Process ready skill five require avoid approach suffer.
+158,Travel-3204,Coupon,Entertainment,45.18,2024-07-01,2024-08-13,329,Website,Several effort shoulder seat remain.
+159,Entertainment-4004,LoyaltyPoints,Fashion,13.32,2023-10-30,2025-09-28,582,Email,Feel dog form trial.
+160,Food-4069,Cashback,Travel,9.43,2023-08-17,2025-01-24,128,Website,Professional north song position she campaign.
+161,Travel-1565,Discount,Entertainment,30.02,2024-09-15,2024-10-09,478,Website,Describe ground he money.
+162,Electronics-6231,Discount,Entertainment,48.3,2024-10-03,2024-11-23,803,Email,Better half walk leg live.
+163,Fashion-7689,Cashback,Fashion,40.72,2025-05-02,2025-05-03,795,Website,Protect authority because suffer sign at.
+164,Entertainment-2843,Discount,Travel,14.02,2024-02-02,2025-02-22,248,Website,Seat enter above produce teach.
+165,Travel-2266,LoyaltyPoints,Entertainment,45.6,2025-02-08,2025-07-09,880,App,Week any he evening arm top.
+166,Fashion-5461,Discount,Entertainment,20.46,2023-07-26,2025-06-04,756,App,Natural teacher recently shake opportunity smile although.
+167,Fashion-6492,Coupon,Travel,48.8,2025-04-14,2025-06-01,876,App,Author think yard evidence age area heart.
+168,Travel-6168,Coupon,Entertainment,18.77,2024-01-02,2024-04-11,886,Email,Figure both upon score public.
+169,Electronics-7870,Cashback,Electronics,5.4,2024-05-21,2024-11-02,88,Website,Bag garden protect war accept.
+170,Electronics-6227,Cashback,Fashion,19.65,2024-06-04,2024-08-27,592,Email,Magazine top after region.
+171,Fashion-1363,LoyaltyPoints,Entertainment,22.34,2024-10-12,2025-04-28,696,SMS,Into meet soon loss fall firm project.
+172,Entertainment-8247,Coupon,Entertainment,40.88,2025-01-23,2025-04-17,499,Email,Couple bad early according soon thus.
+173,Fashion-3200,Cashback,Fashion,6.64,2024-11-25,2025-06-05,842,Website,Finally few help as before recent.
+174,Food-9931,Discount,Fashion,31.98,2024-07-06,2024-08-05,182,App,Nor result much left hope one.
+175,Travel-6650,Coupon,Travel,43.92,2023-11-11,2024-03-03,549,Website,Third provide and feel former hospital.
+176,Fashion-2973,Discount,Food,6.31,2024-06-06,2025-01-16,85,App,Check floor again value.
+177,Fashion-6157,Cashback,Entertainment,11.48,2025-02-02,2025-08-31,248,Email,Consider go direction others environment thought general.
+178,Food-1229,LoyaltyPoints,Fashion,41.87,2024-07-28,2025-09-05,144,SMS,Represent arm simple tough treat.
+179,Entertainment-1584,Cashback,Entertainment,40.41,2023-10-12,2024-12-13,448,Email,Ball official president think.
+180,Entertainment-4380,Cashback,Entertainment,23.93,2024-09-30,2025-02-11,609,Website,History order activity gas physical exactly design.
+181,Fashion-6111,Discount,Fashion,25.93,2025-01-14,2025-11-21,870,App,Instead another back happen.
+182,Entertainment-8570,Cashback,Fashion,31.65,2024-06-29,2025-06-19,241,Website,Effort along decade determine door billion order ground.
+183,Travel-6045,Cashback,Fashion,37.31,2025-02-13,2025-11-01,757,SMS,Drive chance audience machine foreign them challenge senior.
+184,Travel-1235,Cashback,Electronics,10.84,2023-10-25,2024-05-29,652,SMS,Score Mr range office address.
+185,Food-9538,Discount,Electronics,6.88,2025-06-18,2025-12-04,405,Email,Fact sea president be.
+186,Electronics-5742,Discount,Food,24.72,2024-05-09,2025-11-08,847,App,Certainly drug none brother who.
+187,Entertainment-8316,Cashback,Food,6.38,2024-06-07,2025-10-29,402,Email,Sea third pressure class democratic thing ground.
+188,Food-8171,LoyaltyPoints,Food,38.25,2023-08-23,2023-08-28,692,Website,Free during these season owner.
+189,Entertainment-3987,Coupon,Travel,10.27,2024-04-16,2024-04-29,420,Email,Leader recognize deal.
+190,Electronics-5773,Coupon,Entertainment,34.19,2024-10-26,2026-01-16,958,Website,Letter operation let process.
+191,Travel-1035,Coupon,Electronics,17.61,2024-05-31,2025-08-15,681,App,Smile class series already yes sing cover.
+192,Entertainment-5006,LoyaltyPoints,Food,45.16,2025-01-22,2025-08-13,312,Email,Understand that front blood eye fine.
+193,Fashion-5003,Cashback,Travel,20.53,2025-05-03,2025-07-28,541,Website,Challenge receive history often one sort.
+194,Electronics-6908,LoyaltyPoints,Entertainment,36.97,2025-04-21,2025-09-17,962,App,Country current system him.
+195,Electronics-9821,Discount,Entertainment,49.17,2024-05-19,2025-08-17,414,Email,Here management six last part.
+196,Electronics-5430,Coupon,Travel,25.2,2024-10-29,2026-01-15,811,Website,Radio community how though series.
+197,Entertainment-2221,LoyaltyPoints,Travel,22.9,2024-10-30,2024-11-16,277,Email,Opportunity perform hard trouble design design agency.
+198,Travel-5748,LoyaltyPoints,Entertainment,14.32,2024-01-06,2024-12-08,792,SMS,Something enjoy court service federal off.
+199,Entertainment-4146,Cashback,Travel,33.39,2023-08-29,2025-02-16,858,SMS,Reflect woman recent offer build compare.
+200,Food-4791,Cashback,Fashion,17.42,2023-10-01,2025-12-31,995,App,Your station thus story.
+201,Food-5279,Cashback,Fashion,24.72,2023-12-23,2024-02-09,738,Email,Most sport sell ever act radio.
+202,Entertainment-4039,Cashback,Electronics,44.61,2024-06-01,2024-11-18,107,Website,Debate trial strong during bill.
+203,Electronics-8892,LoyaltyPoints,Travel,28.57,2024-08-16,2024-09-29,723,App,Rich high election place shoulder only.
+204,Fashion-4436,Cashback,Entertainment,23.93,2023-09-03,2025-08-12,692,Email,Less firm prepare.
+205,Fashion-4297,Cashback,Electronics,24.31,2025-07-09,2025-09-26,664,Email,Should base specific resource.
+206,Food-3018,Discount,Travel,30.16,2023-09-11,2024-05-28,563,Email,Go miss south writer former scientist property.
+207,Fashion-3077,Coupon,Fashion,30.89,2024-11-12,2025-06-24,324,Email,Stage travel business back affect together old itself.
+208,Entertainment-3168,LoyaltyPoints,Fashion,28.69,2025-01-23,2025-09-04,124,App,Now now record learn tonight another whether.
+209,Entertainment-7551,Cashback,Fashion,34.39,2025-07-12,2025-12-11,93,Website,Example civil drive ever them chair within.
+210,Entertainment-6504,Coupon,Electronics,20.43,2023-12-31,2024-02-06,800,App,Stock draw those woman chance boy range.
+211,Fashion-8958,Cashback,Entertainment,15.7,2024-09-09,2025-05-10,502,SMS,Citizen law way.
+212,Entertainment-5054,LoyaltyPoints,Entertainment,40.9,2025-06-13,2025-09-19,88,App,Hear nor note society watch.
+213,Travel-5182,Coupon,Food,34.84,2025-03-18,2025-11-09,583,App,Fight room pattern board.
+214,Electronics-7699,Discount,Entertainment,42.76,2025-03-08,2025-12-15,525,Website,Garden outside that style.
+215,Fashion-6310,Discount,Entertainment,14.66,2023-10-17,2024-02-19,343,SMS,Avoid thousand use yourself father compare cover.
+216,Food-1512,Cashback,Electronics,42.32,2025-05-16,2026-01-13,87,App,Food around laugh important sit economic.
+217,Entertainment-1019,Coupon,Fashion,29.18,2023-09-06,2024-04-04,411,SMS,Investment bit specific poor pretty.
+218,Food-5448,Discount,Electronics,11.1,2023-11-05,2024-04-25,650,Website,Career early measure executive sister right.
+219,Food-3187,LoyaltyPoints,Travel,37,2024-11-05,2025-05-30,760,App,Center coach green institution computer authority.
+220,Food-5967,LoyaltyPoints,Travel,5.75,2024-05-15,2025-05-21,263,App,Win plant become song how.
+221,Entertainment-3936,LoyaltyPoints,Food,23.03,2024-03-02,2025-04-10,731,Email,Bring ten ever answer rule line full herself.
+222,Entertainment-1054,LoyaltyPoints,Fashion,38.14,2024-09-13,2025-02-09,311,Email,Young already their effort.
+223,Travel-5081,LoyaltyPoints,Entertainment,38.14,2023-09-29,2025-04-08,937,App,Form lawyer human reason.
+224,Travel-4015,Cashback,Electronics,6.95,2024-05-15,2025-04-20,681,Email,Site guy appear discuss fly themselves.
+225,Electronics-5006,Coupon,Entertainment,27.46,2023-11-28,2024-08-23,300,Email,Action hear such listen heavy assume.
+226,Food-1286,Coupon,Travel,41.83,2024-07-20,2024-12-03,570,SMS,Letter will everyone lawyer PM hold himself.
+227,Travel-5270,Coupon,Fashion,33.65,2024-03-01,2024-07-17,658,App,Our data analysis.
+228,Electronics-8314,LoyaltyPoints,Food,13.69,2024-08-19,2025-04-28,416,App,Also financial more establish record Mrs past.
+229,Fashion-5530,LoyaltyPoints,Food,13.21,2023-08-12,2024-02-22,537,Website,General trial suffer build.
+230,Fashion-4451,Discount,Electronics,37.6,2025-06-04,2025-12-01,765,Email,Experience reach arrive our wife.
+231,Electronics-5836,LoyaltyPoints,Travel,6.51,2024-12-28,2025-06-11,573,SMS,She everyone international week before edge.
+232,Food-3216,Coupon,Travel,17.85,2025-01-28,2025-12-26,890,Email,Camera read left focus.
+233,Entertainment-7470,LoyaltyPoints,Travel,27.71,2023-12-11,2024-05-13,159,App,Senior police smile cause mother themselves society.
+234,Fashion-7547,Discount,Fashion,19.73,2024-01-24,2024-06-23,904,App,Discover stay federal cut difference.
+235,Food-3313,Cashback,Food,26.45,2024-02-13,2024-11-24,452,SMS,Call floor who whole risk draw.
+236,Entertainment-9195,Cashback,Fashion,42.02,2024-11-23,2025-12-25,294,SMS,Management respond beautiful understand get use.
+237,Electronics-2429,Discount,Travel,34.84,2023-08-23,2023-11-02,486,App,Authority something nice no real.
+238,Fashion-5123,Discount,Entertainment,21.2,2024-09-15,2025-10-28,878,Email,Hair feeling real buy important.
+239,Electronics-8211,Discount,Food,35.92,2025-03-09,2025-09-23,595,Website,Edge live space ability civil pattern better.
+240,Fashion-5300,Discount,Entertainment,28.21,2024-02-11,2024-09-27,665,Email,Travel where cultural clearly often.
+241,Travel-9893,LoyaltyPoints,Food,28.04,2025-04-16,2025-11-14,491,App,Boy data kind public trial through story.
+242,Entertainment-9697,Coupon,Electronics,43.17,2024-01-22,2025-12-11,59,Email,White relate artist expect difficult industry board should.
+243,Fashion-7309,Cashback,Entertainment,36.48,2025-01-04,2025-11-10,438,Website,Important forget to member without feeling such.
+244,Fashion-3082,Discount,Entertainment,48.45,2024-05-25,2025-10-10,255,SMS,Interest me herself just economic every Congress.
+245,Electronics-3219,LoyaltyPoints,Food,32.99,2024-04-24,2025-01-10,848,App,Decade pass ever event huge hair already.
+246,Travel-8129,LoyaltyPoints,Food,34.16,2023-09-25,2024-04-11,197,SMS,Group detail the movie American.
+247,Fashion-9412,Discount,Entertainment,20.21,2025-02-07,2025-06-24,738,App,Recent share cup evidence who third middle.
+248,Entertainment-8790,Coupon,Travel,46.93,2025-06-16,2026-01-07,518,SMS,Rest soldier far series with gas color.
+249,Travel-8959,Coupon,Travel,11.23,2024-01-16,2024-03-13,136,SMS,Tell situation war.
+250,Electronics-9254,Cashback,Food,12.08,2024-04-07,2025-07-20,867,SMS,Both instead coach.
+251,Electronics-8525,LoyaltyPoints,Travel,37.78,2023-12-10,2025-01-12,892,SMS,Require director their serve relationship small.
+252,Electronics-5729,Cashback,Travel,18.42,2025-07-06,2025-10-30,861,App,Single already suddenly sell expect else thousand big.
+253,Fashion-8516,Cashback,Electronics,17.17,2023-08-14,2024-08-12,937,Email,Individual speak wife animal garden may.
+254,Fashion-7522,Coupon,Travel,10.8,2024-06-26,2025-10-24,218,Email,One study church television option truth.
+255,Entertainment-7806,LoyaltyPoints,Entertainment,32.3,2024-12-02,2025-11-26,637,App,Education in these leader high put.
+256,Fashion-9448,Coupon,Food,40.68,2023-12-14,2025-05-10,74,Website,Power television appear nation whose drug remember rate.
+257,Food-3297,Cashback,Travel,13.87,2024-10-09,2025-08-02,293,SMS,Suddenly none range partner with room against.
+258,Electronics-7188,Coupon,Food,37.12,2024-01-04,2024-04-09,615,Email,Long again happy age.
+259,Electronics-7511,Discount,Food,49.2,2025-04-12,2025-12-17,149,Website,Write lay exist table fill technology.
+260,Fashion-7942,LoyaltyPoints,Fashion,44.37,2023-11-13,2025-07-12,194,Website,Never there administration democratic we else.
+261,Fashion-8145,Discount,Travel,37.87,2024-10-07,2025-06-29,614,Email,Stock court ready candidate issue thousand.
+262,Food-8974,Coupon,Travel,38.38,2023-10-13,2024-02-22,765,Website,Rate alone quite seek let hold statement.
+263,Entertainment-8616,Discount,Electronics,8.94,2024-09-07,2025-07-31,771,SMS,Thousand avoid husband her per company raise situation.
+264,Food-8607,LoyaltyPoints,Travel,48.35,2024-06-15,2025-11-22,894,Website,Not accept main reflect.
+265,Travel-2854,Cashback,Entertainment,12.26,2024-01-25,2024-03-27,252,SMS,About hard successful.
+266,Food-5773,Coupon,Food,13.01,2025-03-06,2025-11-03,806,Email,Notice president when.
+267,Entertainment-3018,Discount,Electronics,27.42,2024-03-23,2024-04-27,566,Email,Need hard similar record party report per.
+268,Electronics-9125,Discount,Travel,5.07,2025-04-23,2025-09-09,484,App,Market over shoulder create gun.
+269,Travel-1206,Cashback,Entertainment,28.26,2024-06-10,2025-10-06,953,Email,Take benefit citizen mention clearly wall.
+270,Fashion-4995,LoyaltyPoints,Food,42.03,2024-04-21,2025-03-08,74,Email,Again sing record mean.
+271,Fashion-9696,Discount,Fashion,9.64,2024-06-14,2024-10-15,352,SMS,International than improve such.
+272,Food-4828,LoyaltyPoints,Fashion,11.36,2024-05-23,2025-11-29,915,App,Than national culture glass behind word affect.
+273,Entertainment-9194,Coupon,Entertainment,41.39,2025-07-03,2025-07-22,62,Email,But religious nature modern attention gun.
+274,Food-2595,Cashback,Travel,29.65,2025-03-22,2025-12-01,789,SMS,Drug inside while other sport officer.
+275,Electronics-9695,Coupon,Entertainment,8.26,2023-10-28,2025-04-14,980,Website,Safe sport reason find ability show blue brother.
+276,Food-8532,LoyaltyPoints,Electronics,43.43,2024-07-03,2025-08-01,589,Email,He quite born.
+277,Entertainment-5290,Cashback,Food,47.87,2024-03-03,2024-07-06,672,Website,Large skin city night law air whole.
+278,Travel-2362,Coupon,Fashion,47.82,2023-08-10,2025-06-22,937,Website,Whatever pass thought artist member away half decade.
+279,Fashion-6938,Coupon,Electronics,30.77,2025-06-19,2025-12-13,231,Website,Positive human hospital experience.
+280,Fashion-1698,Coupon,Fashion,38.99,2025-04-06,2025-08-22,633,App,Treatment attack trouble interesting pay decide.
+281,Fashion-9682,Coupon,Electronics,49.14,2024-05-11,2024-10-19,601,App,Base under less structure.
+282,Food-7077,Coupon,Travel,27.27,2023-09-08,2024-08-29,192,Email,Trade evening never leader hope debate ok.
+283,Travel-9523,Discount,Travel,10,2024-04-05,2025-04-26,425,Website,Long final them report.
+284,Travel-8929,Coupon,Food,11.28,2024-02-14,2025-05-10,548,Email,Involve security tax concern increase majority.
+285,Fashion-6325,Discount,Entertainment,23.2,2024-09-18,2025-02-19,519,Website,Issue couple garden star.
+286,Electronics-4256,Discount,Fashion,14.73,2023-08-25,2024-10-05,690,SMS,Local might power just me.
+287,Entertainment-8021,Discount,Fashion,7.03,2024-06-10,2025-09-03,259,Email,Reality impact brother only.
+288,Electronics-3971,LoyaltyPoints,Entertainment,37.03,2024-05-17,2024-12-08,871,SMS,Method pass address describe style.
+289,Fashion-9487,Cashback,Electronics,34.6,2024-04-27,2025-11-25,288,App,Probably car wind exist close all well.
+290,Electronics-7871,LoyaltyPoints,Electronics,13.81,2024-06-20,2024-06-29,814,Website,Family oil none hold miss car.
+291,Electronics-6723,Discount,Electronics,41.96,2023-08-29,2024-12-31,873,Email,Decide season we marriage attention partner same.
+292,Food-2320,Cashback,Fashion,12.69,2025-02-05,2025-07-28,98,SMS,If learn country fall.
+293,Fashion-8664,LoyaltyPoints,Food,10.5,2024-04-07,2024-10-23,852,App,Analysis enjoy democratic.
+294,Entertainment-6572,Coupon,Electronics,49.16,2025-01-26,2025-10-10,576,Website,Within possible can customer.
+295,Food-7397,Cashback,Entertainment,26.94,2023-11-21,2026-01-06,566,Email,Region to central need remain.
+296,Travel-6735,Cashback,Food,30.38,2025-03-21,2025-05-13,479,Website,Kitchen foot number sport.
+297,Fashion-1207,Coupon,Electronics,39.44,2023-08-04,2024-02-18,84,SMS,Conference anyone toward let bit per.
+298,Entertainment-3952,Coupon,Fashion,22.32,2024-10-22,2026-01-14,777,SMS,Administration pick us claim along.
+299,Food-7457,Discount,Food,39.58,2024-01-14,2024-08-08,143,Email,Cell clear entire trial into check.
+300,Entertainment-5327,LoyaltyPoints,Entertainment,33.76,2025-01-09,2025-05-07,747,Website,Information make southern body establish.
+301,Travel-3321,Discount,Entertainment,28.02,2024-03-26,2024-08-27,857,Website,Read chair ball finally interest treatment writer.
+302,Food-3864,Cashback,Fashion,10.23,2025-03-09,2025-03-14,363,App,From tend good probably my deal either.
+303,Travel-9877,Cashback,Electronics,45.21,2023-12-04,2024-01-20,545,App,Major before someone weight population approach article.
+304,Fashion-1523,Discount,Travel,48.1,2023-08-01,2023-10-08,788,App,Establish pass movie authority stock debate.
+305,Travel-6485,Cashback,Food,11.67,2024-08-12,2024-09-29,755,App,Force I one chance ahead approach kitchen leg.
+306,Electronics-5636,Discount,Travel,26.44,2024-02-25,2025-08-07,88,SMS,Then way try community low.
+307,Electronics-4973,Discount,Food,32.53,2025-05-29,2025-12-19,778,App,Outside fight stock trouble amount.
+308,Electronics-4764,LoyaltyPoints,Food,49.79,2024-08-08,2025-03-13,686,App,Street attack against.
+309,Fashion-9811,Cashback,Travel,31.7,2023-08-09,2024-10-04,574,App,Same fall hit.
+310,Travel-5761,LoyaltyPoints,Entertainment,33.75,2023-12-11,2024-12-22,203,SMS,To live leg seven commercial until.
+311,Travel-9262,Coupon,Electronics,5.24,2024-07-08,2024-11-24,717,App,Tree tell recent keep east bank themselves.
+312,Food-1734,Cashback,Electronics,16.94,2023-09-16,2024-01-08,321,SMS,Of value exist language bit lay.
+313,Travel-7798,Discount,Entertainment,37.76,2025-03-07,2025-09-14,89,Website,Raise dark those present international green chance rock.
+314,Travel-2840,LoyaltyPoints,Fashion,43.35,2024-12-15,2025-08-14,808,Email,Friend fund measure heavy approach skin argue.
+315,Travel-5636,Coupon,Travel,5.2,2023-10-11,2023-10-27,968,SMS,Difficult paper where smile ahead pretty fly.
+316,Fashion-9853,Cashback,Electronics,10.16,2023-07-29,2025-07-26,183,Website,Technology seven way when they mind article.
+317,Food-1263,Coupon,Food,19.93,2023-10-04,2025-01-24,65,Email,Interesting mission or would physical fire economy drop.
+318,Electronics-9658,Coupon,Electronics,41.11,2023-12-10,2024-03-09,589,SMS,Heavy work situation why bill.
+319,Food-5588,Discount,Fashion,35.12,2023-07-27,2023-12-31,706,App,Provide adult beat animal great statement trade.
+320,Entertainment-8452,Cashback,Food,5.6,2024-10-14,2026-01-02,279,SMS,Send offer stand outside.
+321,Electronics-7000,Coupon,Entertainment,43.46,2025-05-10,2026-01-05,600,Website,Nice what country whether sing hope make.
+322,Electronics-4644,LoyaltyPoints,Food,42.91,2024-10-28,2025-09-25,257,SMS,Book bring check choose something member several sometimes.
+323,Food-9591,LoyaltyPoints,Food,22.59,2025-07-08,2025-07-08,385,SMS,Position best kid college piece charge.
+324,Food-1033,Coupon,Entertainment,32.59,2024-11-25,2025-04-07,854,App,Turn then thing with long upon partner.
+325,Fashion-8705,Coupon,Fashion,12.23,2024-08-08,2025-02-02,607,Email,Successful total account myself.
+326,Entertainment-7159,Discount,Entertainment,8.19,2024-10-23,2025-06-08,335,Website,Throw key once everything move.
+327,Food-3156,Cashback,Electronics,39.42,2024-06-06,2025-08-11,538,Website,Successful raise partner place paper according tend.
+328,Food-8077,Cashback,Electronics,37.15,2023-12-22,2024-12-13,599,SMS,Step him discussion account computer.
+329,Electronics-2320,Coupon,Food,47.87,2024-02-06,2025-06-10,387,Website,Series soon budget happy.
+330,Entertainment-9855,Discount,Travel,44.75,2024-03-17,2025-06-07,853,Website,Nation room guess evening field seat will.
+331,Food-6402,Discount,Fashion,15.34,2024-08-30,2025-12-18,997,App,Any investment voice will.
+332,Food-1372,Coupon,Entertainment,38.23,2023-09-22,2024-09-11,712,App,Small morning prepare popular.
+333,Electronics-4087,Coupon,Electronics,15.36,2023-12-28,2024-10-11,939,Website,Fear ever night participant certainly.
+334,Electronics-6449,LoyaltyPoints,Food,36.44,2025-03-12,2026-01-03,436,Website,Industry house where believe later.
+335,Electronics-1514,Discount,Fashion,18.15,2024-04-23,2025-10-11,783,Email,American camera pass my.
+336,Electronics-2735,Coupon,Food,30.03,2024-01-28,2024-11-22,291,SMS,Certain star PM.
+337,Electronics-8904,Discount,Entertainment,42.75,2023-08-24,2025-11-10,734,SMS,Last travel receive true usually.
+338,Fashion-9164,LoyaltyPoints,Fashion,30.35,2024-10-24,2025-07-21,700,Email,Green write short.
+339,Electronics-5800,Cashback,Food,46.77,2023-10-22,2024-11-26,472,Email,Issue according back ability.
+340,Electronics-2073,Discount,Travel,24.61,2024-09-07,2025-08-15,344,App,Tv director identify easy PM.
+341,Entertainment-4449,Discount,Entertainment,14.52,2024-05-23,2025-03-18,84,App,Media green chance family camera significant environment science.
+342,Electronics-4224,Coupon,Entertainment,23.3,2025-06-23,2025-06-27,265,Website,Heart health total.
+343,Entertainment-5034,LoyaltyPoints,Fashion,14.36,2023-09-11,2025-02-11,250,Website,Tonight consider those.
+344,Travel-5706,LoyaltyPoints,Electronics,30.09,2025-03-11,2025-12-29,421,Email,Stage peace talk how carry draw attorney.
+345,Travel-6943,LoyaltyPoints,Entertainment,35.4,2023-09-08,2023-09-11,325,SMS,Campaign local tend child record where agree ten.
+346,Electronics-2392,Coupon,Travel,38.51,2025-01-12,2025-07-06,236,App,Statement young risk involve.
+347,Electronics-3838,Cashback,Entertainment,6.91,2025-02-23,2025-06-11,61,SMS,Father just can.
+348,Entertainment-8117,LoyaltyPoints,Electronics,39.99,2025-02-01,2025-12-23,715,App,Medical thought trade language without.
+349,Entertainment-3078,Cashback,Entertainment,37.32,2024-03-03,2024-06-27,925,App,Also will fire deep land break.
+350,Food-2325,LoyaltyPoints,Fashion,12.37,2023-09-14,2024-07-01,434,Website,State mind where laugh.
+351,Travel-8319,Discount,Electronics,49.67,2024-10-05,2025-12-07,501,SMS,Attorney training condition top very up street.
+352,Electronics-4206,Cashback,Travel,24.73,2024-09-27,2025-04-18,95,SMS,Bank several shake within.
+353,Fashion-6495,Cashback,Travel,18.61,2024-03-19,2026-01-14,179,App,Administration pressure point born culture.
+354,Electronics-9346,Coupon,Electronics,11.58,2025-07-04,2025-11-28,152,App,Matter item effect health.
+355,Electronics-7128,Discount,Food,17.52,2025-03-31,2025-09-23,222,SMS,Memory data keep final bar sister.
+356,Food-9784,Discount,Entertainment,49.74,2024-01-19,2025-02-04,79,Email,Test me third anything public beautiful.
+357,Travel-9040,Discount,Travel,13.38,2025-07-02,2025-11-25,757,SMS,North system opportunity house discuss Congress simple.
+358,Travel-9850,Discount,Travel,41.6,2025-02-07,2026-01-05,799,SMS,Us happy act environmental however wait camera.
+359,Travel-6969,Coupon,Travel,19.86,2024-08-29,2025-11-25,884,Website,Military certainly view small stand.
+360,Fashion-8553,Cashback,Entertainment,7.25,2024-02-16,2024-06-16,151,App,Education point around.
+361,Electronics-1986,Coupon,Food,32.63,2024-08-09,2024-09-01,250,SMS,Word reach lot own.
+362,Travel-9757,Discount,Electronics,39.78,2023-11-17,2024-02-28,332,SMS,Describe defense face quickly what thought wait.
+363,Travel-1135,Discount,Food,10.16,2024-08-06,2024-12-12,509,Website,Prove civil sport improve.
+364,Entertainment-8282,LoyaltyPoints,Electronics,13.62,2024-07-09,2024-08-20,171,App,Hit item understand avoid laugh ask new.
+365,Food-5228,Discount,Travel,18.22,2024-04-14,2024-06-04,623,Website,Reduce about certain maintain skin center child.
+366,Electronics-4833,Coupon,Entertainment,26.45,2025-03-30,2025-08-18,975,App,Avoid various group wind staff southern.
+367,Fashion-3837,Discount,Electronics,39.59,2023-12-29,2024-05-16,512,Website,Son shake our ability those as year.
+368,Fashion-9775,LoyaltyPoints,Food,7.58,2024-11-28,2026-01-15,561,App,Walk attorney short short.
+369,Electronics-2592,Coupon,Travel,18.26,2024-03-25,2024-04-04,112,Email,East whether kind.
+370,Entertainment-3227,Coupon,Entertainment,31.01,2024-09-28,2024-11-19,773,Email,Yourself about would down brother.
+371,Fashion-9956,LoyaltyPoints,Fashion,12.8,2025-05-31,2025-10-17,248,SMS,Camera war break operation care subject.
+372,Electronics-4674,Discount,Travel,48.11,2023-10-24,2025-12-14,811,Website,Dinner city board arrive boy social daughter.
+373,Fashion-2939,Coupon,Electronics,20.2,2024-11-09,2025-02-14,275,App,A amount run PM top arrive.
+374,Food-6432,LoyaltyPoints,Electronics,36.76,2024-03-05,2025-05-13,966,App,Local despite next treat night.
+375,Food-8143,Coupon,Fashion,28.56,2024-11-22,2025-11-26,355,App,Make become various director.
+376,Food-7626,Cashback,Entertainment,49.85,2024-11-05,2025-04-18,302,SMS,Professor step sport southern.
+377,Food-8031,LoyaltyPoints,Food,8.42,2023-10-20,2025-12-10,356,Website,Pressure history century conference beyond.
+378,Travel-2923,Discount,Food,43.21,2025-02-23,2025-06-13,187,Website,Onto head shake subject same.
+379,Fashion-7732,Discount,Food,26.26,2024-12-05,2026-01-05,130,SMS,Those cup article author.
+380,Food-5320,Cashback,Fashion,16.52,2025-07-16,2025-12-31,970,Email,Factor camera edge lead catch use former.
+381,Fashion-1209,LoyaltyPoints,Entertainment,20.36,2025-04-02,2025-05-01,246,App,Choice floor dinner.
+382,Fashion-1521,Discount,Electronics,10.85,2025-05-17,2025-06-11,492,Website,Long program seven morning management mind.
+383,Entertainment-5811,Coupon,Food,11.99,2024-05-29,2025-08-13,69,App,Finally animal trial mission him.
+384,Entertainment-1982,LoyaltyPoints,Food,24.92,2023-12-04,2025-10-12,378,Email,Movement office data ground almost page campaign.
+385,Entertainment-4575,Cashback,Food,11.13,2023-12-18,2025-03-27,273,Email,Reduce view including indicate.
+386,Fashion-5165,LoyaltyPoints,Travel,9.69,2025-04-10,2025-04-21,624,SMS,Whatever blood weight commercial enough election.
+387,Electronics-2902,Coupon,Electronics,36.41,2025-02-15,2025-03-23,332,Website,Maybe perhaps air article interview wind democratic.
+388,Travel-9810,LoyaltyPoints,Electronics,7.65,2024-04-29,2024-10-23,898,SMS,Give management effect.
+389,Entertainment-3528,Coupon,Food,12.09,2024-12-14,2025-12-20,146,SMS,Employee all cut certainly high year.
+390,Fashion-2540,LoyaltyPoints,Travel,14.71,2023-07-28,2025-05-03,284,SMS,Everybody enough list ball.
+391,Food-2305,LoyaltyPoints,Entertainment,42.69,2023-10-23,2025-07-04,255,App,Usually still if opportunity.
+392,Food-5044,Discount,Electronics,11.62,2024-04-01,2025-09-10,783,App,Claim century loss throw court.
+393,Fashion-3122,Cashback,Entertainment,6.9,2025-04-08,2025-06-11,852,App,Little all eat decide others.
+394,Travel-6624,Cashback,Entertainment,28.19,2024-09-23,2025-05-18,644,SMS,Task respond away base.
+395,Food-4526,Coupon,Electronics,13.44,2024-11-15,2024-12-01,279,SMS,Gun activity gas protect never instead.
+396,Travel-2001,LoyaltyPoints,Entertainment,44.08,2024-10-07,2024-12-08,441,Email,Three professional also thank lead.
+397,Electronics-9440,LoyaltyPoints,Fashion,11.78,2024-01-16,2025-03-30,366,App,Manager evening gun must guy choose few.
+398,Entertainment-8811,LoyaltyPoints,Fashion,13.53,2024-02-27,2024-09-17,549,Website,Two when claim management he.
+399,Electronics-6520,Discount,Food,5.22,2024-02-05,2024-08-21,788,App,Final research professional tough herself already true board.
+400,Fashion-8500,Discount,Travel,48.58,2023-08-15,2024-07-09,155,App,Mouth position table not table common physical.
+401,Food-5523,Coupon,Electronics,7.64,2023-08-15,2024-10-25,736,App,Prove want pretty should.
+402,Entertainment-9027,Discount,Travel,36.81,2024-05-24,2025-10-07,725,SMS,Assume eye mention.
+403,Food-7446,Cashback,Entertainment,17.85,2025-03-22,2025-06-09,895,SMS,Hot employee statement bring budget.
+404,Entertainment-5179,Cashback,Electronics,18.95,2024-05-03,2025-04-08,85,Website,Listen may live technology technology cultural.
+405,Travel-2413,Coupon,Food,26.95,2023-10-22,2024-10-20,790,App,Mrs support evening management.
+406,Fashion-3453,Cashback,Entertainment,26.73,2025-04-20,2025-09-27,644,Email,Size sort nor.
+407,Entertainment-3448,Cashback,Electronics,46.85,2025-02-09,2025-10-18,819,SMS,Friend take job nothing stock culture lose.
+408,Travel-8805,Coupon,Travel,47.65,2025-04-10,2025-09-05,361,SMS,Worker method camera.
+409,Travel-7532,LoyaltyPoints,Electronics,5.62,2024-02-22,2024-11-25,1000,Email,Bring medical summer become rate.
+410,Food-9987,Coupon,Entertainment,42.29,2024-03-01,2024-09-09,500,SMS,Environmental kitchen later business worker once lay them.
+411,Travel-6866,Cashback,Travel,35.74,2025-03-04,2025-05-15,640,App,Music cut structure start region school.
+412,Fashion-8173,Cashback,Food,24.71,2024-03-15,2025-03-03,577,Email,Fly information behind thus.
+413,Electronics-8616,Discount,Entertainment,32,2024-09-24,2026-01-12,403,Email,Or character mention time respond responsibility heart protect.
+414,Electronics-9792,Discount,Electronics,7.45,2024-10-30,2025-12-27,782,Email,Check sit purpose education.
+415,Fashion-1513,Cashback,Electronics,36.91,2025-06-06,2025-11-18,346,App,Sell energy cut cup computer.
+416,Fashion-9673,Cashback,Food,31.31,2024-12-01,2025-01-29,441,Website,Republican general maintain officer first notice explain.
+417,Fashion-2510,Cashback,Travel,17.98,2024-03-01,2024-09-29,122,SMS,Message serious laugh technology.
+418,Electronics-1865,Cashback,Electronics,5.22,2025-05-04,2025-05-26,740,Email,End professional police.
+419,Fashion-3885,LoyaltyPoints,Entertainment,24.58,2024-11-09,2025-01-13,594,Website,Set into occur message total.
+420,Entertainment-8581,Discount,Electronics,45.84,2024-05-02,2024-09-14,203,App,Simply result surface music significant possible seek.
+421,Electronics-3701,Coupon,Travel,9.87,2024-06-26,2025-08-25,147,App,Reveal conference account Republican thing people.
+422,Travel-9076,Coupon,Electronics,31.71,2023-08-21,2024-05-22,554,SMS,Thank building who prove shake police.
+423,Electronics-5571,Discount,Fashion,7.16,2023-12-11,2025-02-10,749,SMS,Outside who campaign small court understand.
+424,Travel-3013,LoyaltyPoints,Entertainment,48.22,2023-11-06,2025-12-17,82,Website,Bar increase lawyer court middle enjoy threat.
+425,Entertainment-6074,LoyaltyPoints,Travel,36.4,2025-06-10,2025-11-18,417,App,Toward field animal.
+426,Travel-1904,Discount,Travel,48.93,2024-08-21,2024-11-22,287,Email,Line least effect.
+427,Electronics-4257,LoyaltyPoints,Food,25.46,2024-01-06,2024-03-27,666,Website,Let learn as.
+428,Travel-8438,Cashback,Travel,19.48,2024-02-02,2025-12-12,664,SMS,Call time senior support investment seem according.
+429,Travel-7866,Cashback,Food,39.02,2024-05-21,2024-07-28,875,Email,While enough bar cut his message involve.
+430,Travel-2984,Discount,Travel,20.65,2024-12-09,2025-01-22,576,SMS,On year culture field hotel compare fill.
+431,Electronics-1587,Discount,Entertainment,41.13,2024-01-23,2024-09-20,330,SMS,Contain almost too hand create final.
+432,Fashion-6887,Cashback,Entertainment,37.44,2024-04-21,2024-11-11,525,SMS,High miss concern pattern chair it building.
+433,Food-8807,Discount,Electronics,47.79,2024-12-29,2025-11-04,122,Website,Discussion remain glass letter husband.
+434,Fashion-1695,LoyaltyPoints,Electronics,45.5,2025-04-27,2026-01-13,540,SMS,Relate bed season film owner someone.
+435,Electronics-8648,Cashback,Electronics,27.99,2025-06-10,2025-10-08,87,Email,Night traditional mouth spring into.
+436,Electronics-3484,LoyaltyPoints,Travel,10.39,2025-03-27,2025-07-15,50,Website,Need may note front break plant teach.
+437,Electronics-7713,Coupon,Entertainment,35.36,2024-01-19,2024-01-24,234,Email,Claim look politics family music of rock.
+438,Fashion-9745,Cashback,Electronics,34.85,2024-07-15,2025-12-27,359,Website,Behavior yard tough ten why.
+439,Fashion-8778,Cashback,Food,27.34,2025-01-27,2025-09-01,73,Website,Now defense let development various.
+440,Travel-1689,Cashback,Fashion,49.38,2024-06-27,2025-05-04,269,Email,My card night.
+441,Food-8255,Coupon,Electronics,46.16,2025-01-30,2025-11-13,754,App,Idea figure think all.
+442,Entertainment-5358,Discount,Electronics,18.02,2024-08-04,2025-11-24,377,Website,Reduce identify chance far.
+443,Entertainment-1006,Discount,Fashion,32.51,2025-03-18,2025-07-19,136,SMS,Discuss character fear able listen hand everybody.
+444,Fashion-8920,Discount,Entertainment,11.38,2024-10-13,2024-11-24,947,App,Even key moment low sit most language.
+445,Food-6680,Coupon,Food,33.23,2025-05-09,2025-10-18,776,Email,Environmental health west social.
+446,Food-3586,Coupon,Electronics,38.55,2024-12-30,2025-08-25,441,App,Stage head her free question.
+447,Travel-1499,Cashback,Food,26.14,2024-03-28,2025-09-28,300,App,Free son avoid drive vote.
+448,Entertainment-1950,LoyaltyPoints,Entertainment,26.59,2024-02-29,2025-07-29,793,Website,Six culture thing field understand.
+449,Fashion-5941,Discount,Fashion,45.87,2024-04-03,2025-03-15,297,App,Tax of decade painting above.
+450,Fashion-9903,Discount,Entertainment,23.72,2024-09-22,2025-03-09,678,Website,Down least if.
+451,Travel-5316,Coupon,Electronics,18.3,2023-08-04,2023-10-05,848,App,Dog along nature happy music building.
+452,Entertainment-9061,Discount,Entertainment,43.25,2024-09-24,2025-12-31,62,App,Particularly brother great source look write color.
+453,Electronics-2824,Cashback,Travel,35.12,2024-12-28,2025-07-29,775,SMS,Color wonder treat various four.
+454,Food-9950,LoyaltyPoints,Food,12.57,2024-08-14,2024-11-24,745,App,Lawyer maybe party try her though black.
+455,Travel-3082,LoyaltyPoints,Travel,38.88,2025-06-15,2025-10-07,374,Website,Coach product on forward me.
+456,Travel-8462,Cashback,Electronics,23.07,2025-01-26,2025-12-24,670,SMS,Kind message receive alone.
+457,Fashion-8589,Discount,Fashion,13.1,2024-12-16,2026-01-08,534,Email,Their field investment.
+458,Food-7304,LoyaltyPoints,Entertainment,41.32,2024-11-29,2025-05-12,225,Website,Oil money against free guess pay decision.
+459,Fashion-7832,LoyaltyPoints,Entertainment,29.97,2025-04-11,2025-09-10,197,SMS,Side bank ball create show.
+460,Fashion-1529,LoyaltyPoints,Electronics,34.51,2024-05-02,2024-12-20,547,Email,Also change old wall.
+461,Entertainment-8302,Cashback,Electronics,13.84,2024-08-25,2025-02-04,961,Website,Song so ahead.
+462,Electronics-6490,LoyaltyPoints,Entertainment,31.32,2024-05-13,2025-03-23,776,SMS,Director field against many note miss how.
+463,Travel-3971,Cashback,Travel,46.89,2023-07-23,2025-03-29,212,App,Side so occur.
+464,Food-8961,Cashback,Food,12.93,2023-08-28,2024-04-28,567,Website,Method mean red team site score.
+465,Travel-8852,Cashback,Travel,42.33,2024-05-28,2025-04-19,475,Email,Shoulder natural man specific.
+466,Entertainment-1361,Coupon,Electronics,18.64,2024-03-31,2025-06-17,886,Website,Head ability TV why large point successful.
+467,Travel-2021,Cashback,Fashion,5.65,2023-09-23,2024-08-31,653,SMS,Include hospital loss nothing no world.
+468,Food-2980,LoyaltyPoints,Travel,21.14,2024-05-02,2024-12-14,543,SMS,Arrive leave Congress security reach ground mouth.
+469,Electronics-5426,Coupon,Food,30.54,2024-12-30,2025-03-08,914,App,Work between though assume report staff.
+470,Food-6271,LoyaltyPoints,Entertainment,8.51,2025-03-30,2025-09-24,680,App,Stuff nothing common science age position.
+471,Fashion-4064,Coupon,Fashion,33.65,2024-04-19,2025-04-23,625,Email,Hit a whom measure speak Mrs.
+472,Electronics-5187,Discount,Food,36.06,2024-08-16,2025-02-19,954,Email,Result writer eight either.
+473,Fashion-6762,Coupon,Travel,6.03,2024-01-26,2025-06-22,565,Website,Summer news ok thus focus.
+474,Fashion-2921,Discount,Travel,22.27,2024-02-05,2024-09-16,665,App,Social only cut table.
+475,Travel-5388,LoyaltyPoints,Electronics,25.92,2025-06-04,2025-08-14,503,Email,Commercial include culture special specific pressure available.
+476,Food-7945,LoyaltyPoints,Food,42.91,2023-12-11,2024-10-15,172,SMS,Ask father author company first stay according.
+477,Electronics-9071,LoyaltyPoints,Entertainment,45.57,2025-03-01,2025-10-12,465,Email,Green deal training enough.
+478,Fashion-2905,LoyaltyPoints,Food,32.69,2024-07-11,2025-02-01,690,Website,Music service chance describe.
+479,Entertainment-8059,Discount,Entertainment,26.63,2023-11-13,2026-01-08,717,Website,Seven could international.
+480,Fashion-2873,Coupon,Fashion,35.06,2024-03-11,2025-05-03,622,Email,Onto never across political effort.
+481,Electronics-8747,LoyaltyPoints,Entertainment,21.43,2025-01-27,2025-06-16,841,Website,Responsibility adult indicate mission yourself forget represent.
+482,Food-9073,Cashback,Entertainment,19.26,2025-04-08,2025-11-29,92,App,Assume according field arm.
+483,Fashion-6866,Coupon,Entertainment,15.04,2024-02-13,2024-11-12,75,Website,Vote change live pretty.
+484,Entertainment-1160,Cashback,Electronics,5.79,2024-03-22,2024-11-22,513,Email,Enjoy or many property plant.
+485,Food-8875,Cashback,Electronics,21,2023-12-22,2024-12-12,395,Email,Along southern provide suggest.
+486,Food-9195,Coupon,Food,8.23,2024-07-10,2024-10-13,546,Website,Box and both none change.
+487,Travel-8441,Coupon,Electronics,39.85,2024-12-20,2025-11-24,428,Email,Democratic one main interview probably professor.
+488,Travel-8821,LoyaltyPoints,Entertainment,40.45,2024-09-04,2025-08-02,969,Website,Hour direction practice teach.
+489,Entertainment-6914,Discount,Travel,15.39,2024-06-11,2025-08-24,114,Email,Thing talk go common identify state.
+490,Entertainment-7193,Cashback,Electronics,35.62,2025-04-17,2025-11-04,908,App,Relate budget paper.
+491,Food-1931,Cashback,Fashion,27.44,2025-02-28,2025-05-05,922,Email,Look especially foreign ground others.
+492,Entertainment-9747,Cashback,Fashion,43.51,2024-03-14,2024-12-24,582,Website,Perform accept get care want.
+493,Electronics-1508,Cashback,Fashion,15.99,2024-03-05,2024-11-08,143,App,Rest true newspaper partner.
+494,Entertainment-4979,Cashback,Food,47.08,2024-09-29,2025-10-04,532,SMS,Law one strong staff candidate evidence act street.
+495,Fashion-2867,LoyaltyPoints,Travel,22.2,2025-03-10,2025-05-20,765,Email,Research heavy finish sister.
+496,Fashion-7438,Cashback,Food,44.28,2025-05-17,2025-08-15,314,Website,Question lay knowledge any hear nothing development.
+497,Food-7737,LoyaltyPoints,Food,8.37,2024-05-03,2025-02-14,826,Website,Your TV area shake realize relationship start.
+498,Electronics-5331,LoyaltyPoints,Electronics,16.39,2024-07-13,2025-01-27,789,SMS,Catch series tree environmental.
+499,Entertainment-3210,Cashback,Travel,36.09,2024-09-25,2025-08-19,921,Email,Score husband buy pretty establish.
+500,Fashion-8213,Discount,Travel,38.19,2025-03-21,2025-08-07,301,App,Budget language event meet.
+501,Electronics-3959,Discount,Fashion,31.49,2025-07-04,2025-12-24,135,Email,Home lot head American as agreement.
+502,Fashion-3532,Cashback,Electronics,32.85,2024-11-11,2025-06-28,591,SMS,Dinner national could agent popular head.
+503,Electronics-4268,Cashback,Food,48.41,2024-05-12,2025-01-21,810,SMS,Determine long and.
+504,Entertainment-4802,Cashback,Entertainment,48.4,2024-08-22,2024-11-21,801,SMS,Scene serious because.
+505,Electronics-1412,Discount,Travel,16.19,2024-11-24,2026-01-11,835,App,Provide anything back agreement final.
+506,Electronics-7195,Cashback,Travel,22.07,2025-05-28,2025-11-22,937,SMS,Suggest even mention require far.
+507,Travel-6434,Discount,Electronics,43.54,2023-10-11,2024-05-20,745,Email,Ball accept total office half long ahead.
+508,Travel-6308,Discount,Electronics,35.45,2023-10-12,2024-04-02,356,SMS,Wind writer stage often range talk affect music.
+509,Travel-8975,Cashback,Electronics,29.12,2025-02-12,2025-08-15,306,SMS,Task end ever official their wrong.
+510,Travel-3777,Discount,Food,18.64,2023-11-15,2024-03-24,798,SMS,My buy very build consider answer guess.
+511,Entertainment-8098,LoyaltyPoints,Fashion,8.39,2025-07-10,2025-09-28,171,Website,Best life house somebody radio.
+512,Entertainment-5959,Discount,Food,42.83,2024-01-29,2024-04-27,236,Email,Yourself according boy industry coach read.
+513,Entertainment-6875,Coupon,Electronics,40.01,2024-02-28,2026-01-09,904,App,Wonder contain money way music walk.
+514,Fashion-2398,Coupon,Entertainment,40.63,2024-09-09,2025-09-20,98,Email,Report crime sort buy forget.
+515,Electronics-3083,Discount,Travel,25.67,2025-01-19,2025-02-27,541,Email,Stop responsibility should machine foot general social.
+516,Entertainment-7332,Coupon,Fashion,15.22,2025-07-09,2025-11-30,631,App,Each our administration unit choose government throw.
+517,Fashion-3925,Coupon,Food,32.49,2025-02-13,2025-04-11,681,Website,Home role majority particular study my should.
+518,Food-6111,Cashback,Travel,25.95,2025-01-08,2025-09-10,362,App,Mission project pull system.
+519,Electronics-4159,LoyaltyPoints,Food,13.96,2025-05-27,2026-01-15,68,SMS,Hot enjoy western.
+520,Travel-4273,Coupon,Travel,18.79,2025-01-20,2025-05-24,122,SMS,Wife area sing start certainly throughout go.
+521,Fashion-5376,Cashback,Entertainment,19.3,2024-07-24,2026-01-10,844,Website,Occur throughout car artist.
+522,Food-1288,Discount,Food,17.28,2025-01-06,2025-05-16,170,Website,Husband throw head fish.
+523,Travel-1650,Coupon,Food,14.63,2024-01-14,2025-02-08,905,Website,Walk mouth low single no.
+524,Entertainment-2161,Cashback,Travel,7.15,2023-08-12,2024-06-29,594,Email,Often parent few head attorney.
+525,Food-3499,Cashback,Entertainment,15.92,2024-12-08,2025-04-20,208,Email,Life on feeling service feeling someone least.
+526,Food-6300,Coupon,Fashion,49.86,2024-08-08,2025-03-26,304,App,Necessary around politics quality mean significant response.
+527,Entertainment-3975,Cashback,Electronics,22.84,2025-07-07,2025-08-07,910,SMS,Practice budget sing human.
+528,Food-3185,Coupon,Electronics,7.06,2023-09-10,2023-10-29,603,SMS,Television choice top hope speech business window share.
+529,Travel-9121,Discount,Entertainment,41.05,2024-10-07,2025-01-26,330,SMS,Gun someone provide.
+530,Entertainment-1688,LoyaltyPoints,Fashion,35.06,2024-06-05,2025-08-19,737,App,Relationship policy allow discuss others modern.
+531,Entertainment-8152,Cashback,Fashion,36.43,2025-05-17,2025-06-19,330,Website,Red control use enter tree you mission close.
+532,Food-9829,Cashback,Entertainment,28.98,2024-05-31,2025-03-24,328,Email,Season wind chance present address at after realize.
+533,Fashion-4620,LoyaltyPoints,Travel,13.35,2025-05-08,2025-11-21,838,SMS,Analysis product develop subject position report.
+534,Entertainment-6219,Coupon,Travel,34.32,2025-04-26,2025-07-06,603,Website,Age who next board able carry hand financial.
+535,Food-1215,Discount,Entertainment,18.2,2024-04-19,2024-08-17,356,Website,Song class happen international her.
+536,Electronics-3829,Discount,Electronics,35.4,2023-08-12,2025-08-26,388,Email,Professor board result easy beyond again.
+537,Fashion-5082,Cashback,Entertainment,41.45,2025-07-19,2025-11-13,117,App,Good his radio general certain ready part.
+538,Travel-5529,Coupon,Travel,16.89,2024-10-24,2025-07-11,54,App,Similar between own term across stuff meeting station.
+539,Travel-3765,LoyaltyPoints,Electronics,8.24,2024-10-19,2025-09-09,431,Email,Direction five rise soon according yes into.
+540,Entertainment-7596,LoyaltyPoints,Electronics,8.94,2024-04-22,2024-07-21,385,App,Wait than party take good.
+541,Entertainment-4657,Coupon,Entertainment,38.71,2025-06-03,2025-12-08,737,Email,Away phone medical always let.
+542,Food-7300,Discount,Travel,7.26,2025-04-15,2025-10-07,733,Email,Sea nothing rule perform.
+543,Entertainment-9659,LoyaltyPoints,Entertainment,39.99,2024-08-22,2025-01-09,458,Website,House body point country wear.
+544,Travel-2728,LoyaltyPoints,Entertainment,27.09,2025-03-05,2025-08-10,135,Email,Both can attorney board Congress positive relate.
+545,Electronics-1913,Cashback,Electronics,22.51,2023-11-27,2025-03-09,851,Email,Three tree activity.
+546,Entertainment-6797,Discount,Travel,40.51,2024-09-18,2024-10-29,479,App,Tell save often sister certainly catch page.
+547,Travel-4155,Cashback,Travel,15.86,2024-01-01,2024-09-09,971,App,Poor else raise get if student computer game.
+548,Electronics-1938,Coupon,Fashion,26.6,2023-10-16,2025-10-26,299,Email,Heart for car benefit culture.
+549,Entertainment-8980,Cashback,Entertainment,42.21,2025-01-25,2025-10-08,635,Website,Score significant all board or town million.
+550,Fashion-1002,Coupon,Entertainment,7.42,2023-10-28,2025-01-30,180,Email,Law experience require news.
+551,Entertainment-6157,Discount,Travel,23.45,2024-07-01,2025-10-19,968,Email,Take far care when into.
+552,Fashion-8653,Discount,Food,44.81,2024-09-20,2025-10-04,994,App,Method option response TV not wait something.
+553,Electronics-8002,Cashback,Fashion,46.03,2023-08-20,2025-03-20,56,SMS,Onto control tough election bad pay usually.
+554,Travel-6932,Coupon,Electronics,16.07,2025-07-05,2025-10-17,154,App,Picture free economy outside into.
+555,Electronics-4468,Cashback,Fashion,15.85,2025-02-02,2025-02-07,583,Website,Most up require serious.
+556,Entertainment-3608,Cashback,Travel,31.56,2023-09-19,2024-04-20,92,Email,Sign value business about now pattern everyone organization.
+557,Travel-5542,Cashback,Fashion,34.29,2024-02-19,2024-07-25,752,Email,Case him quite smile.
+558,Entertainment-7158,Cashback,Entertainment,10.7,2024-01-04,2024-01-13,999,App,Responsibility strong or.
+559,Entertainment-9850,Discount,Fashion,32.12,2024-01-23,2025-09-28,111,Website,North organization ball lot choice parent.
+560,Travel-7878,LoyaltyPoints,Food,28.89,2024-09-12,2025-11-01,630,Email,Image attorney chair low money.
+561,Entertainment-9673,Coupon,Entertainment,26.86,2023-09-04,2024-03-26,377,SMS,Friend rule reflect soldier save choice one.
+562,Entertainment-2094,LoyaltyPoints,Electronics,29.34,2023-08-22,2024-10-08,979,SMS,Activity international authority school drive officer close.
+563,Travel-8734,LoyaltyPoints,Travel,35.85,2024-08-06,2025-07-17,342,Website,People lawyer better authority next single.
+564,Travel-2078,Coupon,Electronics,42.76,2023-11-14,2025-03-22,675,Email,Suddenly try have people.
+565,Fashion-4915,Coupon,Travel,38,2024-08-02,2025-08-09,698,Website,Place carry while analysis fast.
+566,Food-4748,Coupon,Fashion,12.68,2024-12-24,2025-06-24,388,Website,Cell speech hot.
+567,Fashion-3184,Discount,Fashion,39.27,2023-12-20,2024-03-30,778,SMS,Side talk professor much other bring nation close.
+568,Travel-8605,Cashback,Travel,29.68,2024-02-22,2024-06-30,722,App,Commercial century take break special.
+569,Travel-8366,Coupon,Travel,32.57,2024-09-09,2025-07-31,554,App,Agree get ask play cover phone.
+570,Travel-8033,Coupon,Fashion,23.17,2024-05-28,2024-09-18,762,Email,Newspaper case hair behavior artist cost.
+571,Electronics-4962,Coupon,Fashion,44.41,2023-10-15,2023-12-02,152,SMS,On draw pay population effort.
+572,Food-2377,LoyaltyPoints,Travel,39.17,2024-09-26,2025-01-08,262,SMS,There American behind finish production response.
+573,Entertainment-5644,Coupon,Entertainment,47.78,2024-04-15,2025-05-05,590,Email,Herself certainly third inside different whatever election.
+574,Travel-9788,Coupon,Travel,44.12,2025-05-23,2025-12-20,181,Email,East high maintain.
+575,Food-5801,Cashback,Travel,8.3,2024-11-20,2025-01-27,623,Email,Magazine policy call word field.
+576,Entertainment-4979,LoyaltyPoints,Entertainment,30.24,2023-07-31,2025-02-22,649,App,State today field almost why professional so.
+577,Travel-5287,LoyaltyPoints,Fashion,15.88,2023-10-12,2025-12-05,886,SMS,Line force image conference real hold evidence boy.
+578,Travel-9663,Cashback,Travel,17.54,2024-10-29,2025-05-11,875,Email,Election seven summer station fire large focus.
+579,Food-9213,LoyaltyPoints,Travel,23.39,2025-05-19,2025-09-06,896,Email,Pattern interesting into face whom employee.
+580,Entertainment-7928,Cashback,Food,37.89,2023-11-03,2024-07-11,813,Website,Herself agreement worker know.
+581,Fashion-5044,Coupon,Travel,20.66,2025-03-28,2025-04-29,734,Website,Also federal performance candidate family.
+582,Fashion-4607,Discount,Fashion,16.64,2024-12-10,2025-10-21,960,Email,Direction exist music son through open.
+583,Fashion-2417,Cashback,Fashion,23.98,2024-10-23,2025-12-02,209,Email,Walk same rich none responsibility.
+584,Travel-8869,Coupon,Fashion,11.81,2024-12-08,2024-12-28,943,SMS,Team task benefit.
+585,Electronics-9520,LoyaltyPoints,Fashion,45.98,2024-07-29,2025-01-22,283,SMS,Less project truth fall class.
+586,Travel-2860,Discount,Travel,20.63,2023-12-04,2025-10-17,192,App,Yourself ground thus party ground paper seem.
+587,Fashion-8574,Discount,Travel,17.75,2024-10-25,2025-11-29,405,Website,Business throw garden room source often.
+588,Food-6947,Cashback,Food,42.93,2023-12-05,2025-01-11,201,Website,Certainly that plant past early stage set speech.
+589,Entertainment-4659,Discount,Fashion,40.1,2024-02-29,2024-06-02,584,App,Recent simply old send traditional near.
+590,Entertainment-7478,Cashback,Food,21.64,2024-08-09,2025-10-16,124,SMS,Live bag every both.
+591,Travel-1618,Coupon,Entertainment,33.42,2024-09-07,2025-03-28,838,Website,Occur nature present final.
+592,Entertainment-8237,Cashback,Food,18.59,2023-12-14,2025-09-08,747,Email,Action business college direction hotel worker.
+593,Entertainment-1352,LoyaltyPoints,Food,10.09,2024-11-06,2025-01-30,70,App,Identify may stuff technology.
+594,Fashion-5087,LoyaltyPoints,Electronics,26.62,2024-08-15,2024-11-07,930,Website,Water generation evening power consider consumer.
+595,Travel-8232,Discount,Electronics,15.59,2025-05-08,2025-10-22,190,App,Feeling after street pull their arrive.
+596,Electronics-9430,Discount,Electronics,46.88,2025-01-10,2025-01-11,950,Email,Gas run those body whose dream.
+597,Food-8128,LoyaltyPoints,Entertainment,42.21,2023-07-31,2024-05-31,542,Website,So allow poor prepare then similar direction from.
+598,Travel-6956,LoyaltyPoints,Electronics,8.08,2024-09-26,2025-12-05,869,Email,Decision financial majority wear else instead though.
+599,Fashion-1750,Cashback,Travel,25.39,2025-07-13,2025-12-10,934,App,Chair guy foreign hand story fear.
+600,Fashion-3269,Coupon,Electronics,37.76,2024-02-18,2025-11-13,613,Website,Beyond our party her old season.
+601,Entertainment-6429,Coupon,Fashion,39.43,2025-02-27,2025-12-03,426,Email,Out simple central hear either value.
+602,Food-6697,LoyaltyPoints,Travel,35.15,2024-04-10,2025-02-22,624,Email,Under more parent number box can serve.
+603,Fashion-4835,Cashback,Travel,13.14,2024-03-16,2025-09-06,179,SMS,Station very old it.
+604,Travel-6763,LoyaltyPoints,Travel,7.59,2024-02-18,2024-03-24,845,Email,Sing suggest fall out ahead important.
+605,Fashion-2259,LoyaltyPoints,Electronics,37.4,2024-10-15,2025-11-24,299,Website,Station into sing paper.
+606,Electronics-6578,Coupon,Travel,33.83,2023-08-27,2024-12-11,379,App,Quickly room spring.
+607,Food-9937,Discount,Electronics,31.19,2023-11-07,2024-01-14,365,App,Third white begin herself community company.
+608,Fashion-1411,Discount,Entertainment,12.14,2024-03-26,2024-04-26,889,SMS,Door up administration blue set laugh.
+609,Electronics-3134,LoyaltyPoints,Food,10.92,2023-10-05,2024-05-05,190,SMS,Many debate ball test total clearly major.
+610,Entertainment-8062,LoyaltyPoints,Electronics,43.74,2025-04-07,2025-06-09,197,SMS,Put investment life group company against.
+611,Electronics-4756,Discount,Food,39.57,2023-08-29,2024-03-06,380,Website,Popular run word professional.
+612,Electronics-6989,Coupon,Entertainment,5.14,2023-08-30,2024-01-02,550,SMS,Charge key face.
+613,Electronics-4654,Discount,Food,9.97,2024-05-15,2026-01-10,239,Website,Day see property likely during well very.
+614,Entertainment-2708,Discount,Food,27.03,2023-11-30,2024-04-29,800,Email,Anyone himself character stay another carry interesting.
+615,Entertainment-7593,LoyaltyPoints,Food,20.34,2023-09-12,2024-12-25,962,SMS,Home rule design.
+616,Entertainment-1040,Coupon,Food,34.43,2025-02-04,2025-08-14,657,Email,Drive clearly worker.
+617,Electronics-9768,Coupon,Food,34.57,2025-03-14,2026-01-07,569,Website,Economic value star serve wait.
+618,Electronics-8345,Cashback,Electronics,6.91,2023-09-11,2025-05-05,145,App,All responsibility state.
+619,Travel-9034,LoyaltyPoints,Food,17.99,2023-10-19,2025-08-13,407,SMS,North attention accept husband decide her.
+620,Fashion-7681,LoyaltyPoints,Fashion,33.48,2024-01-08,2024-02-11,259,App,Near upon market want operation president inside growth.
+621,Travel-2467,Coupon,Electronics,26.67,2023-10-15,2025-12-30,835,Email,Would walk her practice.
+622,Entertainment-4057,Discount,Entertainment,40.53,2024-04-07,2024-11-24,371,SMS,Relate family floor white air.
+623,Travel-4221,LoyaltyPoints,Entertainment,31.09,2024-09-19,2025-03-14,471,SMS,Seek capital trade them summer none impact every.
+624,Electronics-3538,Discount,Entertainment,33.64,2024-03-03,2025-10-28,921,Website,White better response already wrong bed because provide.
+625,Food-7329,LoyaltyPoints,Fashion,9.8,2024-10-23,2026-01-17,798,SMS,Once partner program.
+626,Electronics-7934,LoyaltyPoints,Entertainment,26.46,2024-07-20,2025-04-03,58,Email,Attack record eye parent player future.
+627,Food-4699,LoyaltyPoints,Travel,12.22,2023-12-18,2025-05-07,376,App,Use attention born cut first.
+628,Travel-1224,Coupon,Food,37.2,2024-05-27,2025-05-25,570,App,Decision if design statement seat start scientist.
+629,Fashion-5634,Cashback,Travel,11.88,2023-09-21,2025-11-19,627,Website,Ability approach around cup.
+630,Fashion-8428,Discount,Food,20.78,2024-03-23,2025-11-14,104,SMS,Much strategy lose deal let join.
+631,Fashion-3213,Discount,Food,24.69,2024-10-29,2025-10-24,691,SMS,Sign line soon.
+632,Food-3219,Coupon,Travel,41.83,2024-04-05,2025-09-18,333,Website,Lay evening role early site discussion.
+633,Entertainment-7464,Cashback,Electronics,23.74,2024-10-02,2025-11-14,960,Website,Walk name southern drive forward politics.
+634,Entertainment-1762,Coupon,Travel,15.25,2023-07-28,2025-08-17,413,Email,Us south sea full stay event accept.
+635,Travel-3571,Discount,Electronics,49.17,2023-10-16,2025-01-03,344,Email,Begin evening him identify director picture individual.
+636,Travel-7663,Coupon,Electronics,26.09,2024-04-16,2025-08-24,253,Email,Own whole people ever avoid probably whatever simple.
+637,Entertainment-3052,Cashback,Entertainment,35.22,2025-03-19,2025-04-06,522,Website,Learn resource however accept management group.
+638,Food-6400,LoyaltyPoints,Fashion,19.86,2024-07-02,2024-11-24,122,Website,Write west song federal.
+639,Entertainment-1068,Discount,Travel,20.78,2024-07-23,2025-02-01,610,Website,Think billion decade red much.
+640,Fashion-5359,Coupon,Electronics,22.39,2023-10-30,2024-08-09,549,App,Possible worker mind daughter.
+641,Entertainment-2254,Discount,Travel,12.65,2023-11-26,2024-03-15,448,Website,Improve personal production remain so cold.
+642,Electronics-3794,Coupon,Fashion,47.31,2023-08-13,2025-02-10,730,SMS,All go herself discover policy fire easy stay.
+643,Fashion-6834,Coupon,Food,15.02,2023-08-02,2023-08-31,533,SMS,Pressure water trial institution cut focus.
+644,Electronics-1832,LoyaltyPoints,Travel,14.36,2025-04-28,2025-07-17,722,Website,Message particular later prevent mention.
+645,Travel-3472,Discount,Food,40.98,2024-01-12,2024-10-23,911,App,Central art network sell be street wait.
+646,Travel-8258,Cashback,Travel,38.62,2023-11-20,2025-08-30,956,App,Present popular art wide.
+647,Electronics-1298,Cashback,Food,34.32,2023-12-21,2025-06-01,862,Email,Guy organization board trouble send research.
+648,Travel-8270,Discount,Fashion,41.79,2024-01-10,2025-04-21,251,App,Over tough standard professor.
+649,Fashion-1371,Coupon,Entertainment,37.52,2024-07-24,2024-09-04,438,SMS,Heavy whatever capital crime table eight.
+650,Entertainment-8296,Cashback,Fashion,24.69,2024-06-30,2025-01-18,235,SMS,Official present line hard.
+651,Electronics-8505,Coupon,Travel,13.45,2023-09-17,2024-04-21,127,SMS,Edge hope grow ball.
+652,Fashion-3540,Discount,Entertainment,6.79,2024-09-08,2024-11-11,791,SMS,Then hotel sea own low involve.
+653,Electronics-9710,Cashback,Fashion,11.44,2024-12-23,2025-08-05,917,Email,See themselves mean cover effect.
+654,Entertainment-4268,Discount,Travel,37.89,2023-09-18,2025-08-16,186,Website,Media message cost move image along.
+655,Travel-9259,Cashback,Food,38.83,2024-09-23,2025-10-11,974,App,Rate nature free prevent image.
+656,Travel-1186,Coupon,Electronics,32.35,2023-09-15,2024-04-07,418,Email,Spend six attack save near toward human surface.
+657,Electronics-8394,Cashback,Entertainment,13.87,2023-09-23,2024-01-25,479,App,See over concern suddenly once.
+658,Entertainment-9387,Discount,Electronics,49.18,2024-07-01,2024-11-26,982,SMS,In issue still their quickly box.
+659,Fashion-7456,Cashback,Electronics,27.71,2023-10-30,2025-10-11,101,SMS,Glass think black before instead daughter table blood.
+660,Food-9033,LoyaltyPoints,Electronics,23.42,2025-03-07,2025-05-21,533,Email,Clear sure prepare live.
+661,Fashion-1466,Coupon,Fashion,5.92,2024-11-20,2025-08-19,331,App,To measure for nice war new final.
+662,Electronics-7435,Cashback,Food,38.52,2024-12-20,2025-04-08,246,Email,Measure key build sound either.
+663,Electronics-8667,Coupon,Food,17.87,2024-05-17,2025-03-16,271,Website,Lose hold throughout thus continue speak want.
+664,Entertainment-2388,Cashback,Food,17.92,2025-04-26,2025-05-05,792,App,Organization themselves maybe girl.
+665,Fashion-5806,Coupon,Food,44.72,2023-08-13,2025-09-03,401,SMS,Necessary learn traditional story.
+666,Travel-7561,Discount,Food,46.42,2024-02-04,2026-01-17,622,SMS,Reach treatment morning suggest wrong statement paper.
+667,Electronics-7118,Coupon,Travel,27.94,2025-01-04,2025-05-14,244,Website,Well suffer tree day other account.
+668,Fashion-1478,Discount,Travel,37.69,2024-10-22,2025-02-21,891,Website,Station I write.
+669,Entertainment-7564,Coupon,Travel,27.55,2024-11-01,2025-03-18,363,App,Team design box capital religious matter among.
+670,Electronics-5717,Cashback,Entertainment,44.34,2025-01-15,2025-04-19,625,Website,Per heavy certainly although dark fight cell.
+671,Fashion-9431,Cashback,Entertainment,16.34,2024-11-03,2025-07-29,939,SMS,Although wide conference management produce.
+672,Food-1727,Discount,Travel,24.86,2025-02-10,2026-01-16,73,Website,Pretty color decision message simple successful foreign push.
+673,Entertainment-3706,Coupon,Food,23.78,2025-04-08,2026-01-06,565,Email,Second learn individual test clear.
+674,Electronics-9303,Cashback,Travel,20.1,2024-08-07,2024-12-23,952,Website,Right majority prove coach.
+675,Entertainment-9459,Coupon,Travel,23.62,2025-05-23,2026-01-15,452,Website,Without step police word full help radio.
+676,Food-5540,Discount,Entertainment,19.86,2025-02-07,2026-01-12,742,Website,To hour look sport situation.
+677,Electronics-7988,LoyaltyPoints,Food,24.44,2024-09-08,2025-03-26,628,App,Care should accept wait hard.
+678,Food-6772,Discount,Electronics,43.92,2024-01-09,2024-08-15,909,Website,Message seek fact site during.
+679,Fashion-9621,LoyaltyPoints,Entertainment,9.45,2023-08-23,2025-12-18,472,Website,Over maybe large bring.
+680,Electronics-9496,Coupon,Travel,49.42,2023-08-05,2024-08-23,439,Email,Discover draw most detail manager.
+681,Travel-5395,Cashback,Food,35.53,2025-04-04,2025-09-20,433,Website,Attack wait expect area party apply.
+682,Electronics-7343,Discount,Fashion,47.94,2025-06-23,2025-07-10,536,SMS,Beyond within free score doctor attack night.
+683,Travel-6188,Cashback,Entertainment,9.53,2024-03-10,2025-01-21,443,Website,Decade one bed front.
+684,Entertainment-6231,Cashback,Fashion,22.54,2024-03-13,2025-01-02,433,Email,Window stuff matter city behind agency to include.
+685,Food-4686,LoyaltyPoints,Food,25.69,2024-08-28,2025-05-13,847,App,Resource offer life method over.
+686,Travel-6400,Discount,Entertainment,13.66,2024-11-03,2025-06-03,421,App,Seem finish everything discover trade.
+687,Food-3460,Cashback,Travel,24.42,2025-05-19,2025-11-19,747,Email,Congress tree address oil.
+688,Electronics-4123,LoyaltyPoints,Electronics,42.69,2024-11-21,2025-08-19,567,Email,Response turn agreement find.
+689,Electronics-2464,Coupon,Fashion,6.33,2024-11-09,2025-09-30,666,SMS,Ahead help interest live church.
+690,Entertainment-7337,Discount,Entertainment,14.96,2023-08-28,2025-02-27,215,Email,Job authority cell first measure.
+691,Fashion-5535,Discount,Entertainment,41.45,2024-08-28,2025-01-19,584,App,Paper season small town note shake have big.
+692,Travel-8072,LoyaltyPoints,Fashion,41.6,2025-04-02,2025-07-21,497,Email,Easy police authority read truth.
+693,Food-9661,Coupon,Travel,27.13,2024-06-25,2024-09-18,770,Email,Now imagine charge.
+694,Food-8975,Cashback,Electronics,21,2024-02-17,2024-11-27,959,SMS,Receive yard reduce left.
+695,Fashion-2163,Discount,Entertainment,27.01,2024-02-28,2025-07-11,937,App,Interest teach relate plan.
+696,Entertainment-2246,Discount,Fashion,18.22,2023-09-10,2024-03-29,346,SMS,Born middle management safe size.
+697,Food-3799,LoyaltyPoints,Travel,49.28,2024-12-25,2025-05-22,623,Website,Red quite management kitchen early office ten.
+698,Electronics-9737,LoyaltyPoints,Food,39.61,2025-05-05,2025-06-30,787,Website,Each address church.
+699,Food-4342,Discount,Electronics,10.99,2025-04-22,2025-09-28,107,App,Fear final trip last campaign.
+700,Travel-8675,Coupon,Electronics,13.91,2023-12-19,2024-10-02,727,Website,Move just situation fill trouble.
+701,Fashion-5843,Coupon,Travel,46.67,2023-12-05,2025-09-05,402,App,President over body management relate.
+702,Food-1409,Coupon,Entertainment,5.1,2024-07-04,2024-12-14,762,Email,Shake least same still.
+703,Fashion-1767,LoyaltyPoints,Travel,7.23,2023-11-05,2024-06-05,978,App,Difference detail sport.
+704,Entertainment-2754,LoyaltyPoints,Fashion,13.6,2025-03-11,2025-04-08,734,Website,Offer sometimes every particularly hand.
+705,Electronics-5963,Cashback,Travel,16.35,2024-02-20,2025-02-07,498,App,Involve eye sea their young religious.
+706,Fashion-6074,Coupon,Electronics,41.49,2024-03-18,2024-05-30,501,Email,Seek president commercial.
+707,Entertainment-1641,Discount,Food,16.42,2023-12-06,2025-03-14,116,Website,Dark concern peace get compare travel blood site.
+708,Electronics-7336,Coupon,Entertainment,39.06,2025-06-07,2025-09-27,191,Website,All group later painting.
+709,Fashion-3252,LoyaltyPoints,Travel,19.01,2025-04-16,2025-11-13,72,Email,Toward yes decide forward fund lose behind.
+710,Travel-3613,Discount,Electronics,40.9,2024-07-04,2024-11-28,225,Website,Best would maybe.
+711,Travel-3348,Coupon,Travel,13.12,2023-09-13,2024-07-11,977,Email,Major anyone listen walk make bag.
+712,Electronics-4428,Discount,Electronics,24.15,2023-08-08,2024-09-06,406,Website,Hot road investment east could.
+713,Electronics-8587,Discount,Electronics,39.92,2024-01-22,2024-03-25,164,Website,Wear letter and person opportunity.
+714,Food-2856,LoyaltyPoints,Fashion,17.3,2023-11-21,2025-01-09,527,SMS,East strategy production news.
+715,Food-9389,Discount,Travel,33.51,2024-10-04,2024-10-06,968,App,Call with think your everybody expert.
+716,Electronics-9807,Cashback,Electronics,43.41,2025-02-24,2025-10-10,270,Email,Story possible event wind.
+717,Fashion-3450,LoyaltyPoints,Electronics,13.84,2023-11-02,2024-02-05,650,Website,Itself night until shoulder.
+718,Entertainment-5852,Cashback,Fashion,9.65,2023-09-11,2024-11-30,927,Email,Actually employee author alone.
+719,Food-4592,Cashback,Fashion,42.63,2025-04-04,2025-10-10,867,Email,President far safe exactly boy.
+720,Electronics-9096,LoyaltyPoints,Fashion,23.96,2023-09-18,2025-05-28,952,App,Billion really send discussion.
+721,Entertainment-9303,Discount,Fashion,10.85,2024-01-20,2025-02-09,646,Email,Win her history audience near common respond.
+722,Electronics-6444,Discount,Travel,47.62,2023-07-28,2023-11-25,818,Email,First for get late.
+723,Travel-7374,LoyaltyPoints,Fashion,48.97,2023-07-31,2023-08-09,435,App,Role discuss assume hotel face.
+724,Electronics-8630,LoyaltyPoints,Travel,30.85,2023-09-10,2025-11-15,925,SMS,Official early left science.
+725,Travel-8981,Cashback,Electronics,14.61,2023-10-15,2025-09-05,801,Email,Heavy treat detail onto.
+726,Food-8206,Cashback,Travel,22.83,2025-05-01,2025-12-01,598,Website,Return per network spring term leave serve.
+727,Food-5641,Cashback,Travel,27.02,2024-09-25,2025-04-10,249,SMS,Team question agreement unit.
+728,Entertainment-6864,LoyaltyPoints,Electronics,6.58,2023-08-18,2025-02-07,918,Email,Bag material require bank yeah.
+729,Fashion-1362,LoyaltyPoints,Food,49.53,2025-06-10,2025-07-31,52,App,Every everything blue country just money range.
+730,Electronics-8459,LoyaltyPoints,Travel,11.24,2025-04-05,2025-05-14,508,SMS,Identify college tell again return.
+731,Travel-2603,Discount,Fashion,42.15,2024-10-18,2025-11-21,289,SMS,Avoid arrive last operation.
+732,Travel-9233,Cashback,Travel,46.54,2025-03-12,2025-07-25,538,Website,Yourself behavior whatever west really.
+733,Electronics-3552,Discount,Travel,23.21,2024-09-07,2024-10-27,218,SMS,Describe minute its ready information film food address.
+734,Electronics-1785,Coupon,Food,8.54,2023-11-05,2024-01-20,955,SMS,Military expert especially election.
+735,Food-4089,Cashback,Entertainment,46.87,2023-09-30,2025-08-21,428,SMS,Next born and democratic choose.
+736,Fashion-2358,Cashback,Food,13.28,2024-03-12,2025-03-05,204,Website,Head sort natural blue lot.
+737,Entertainment-4721,Coupon,Electronics,43.41,2023-12-26,2024-10-20,649,SMS,Agreement would finally write poor door.
+738,Travel-1438,LoyaltyPoints,Electronics,25.37,2024-02-03,2024-11-22,637,SMS,Deal find suffer skin for such.
+739,Electronics-5294,Cashback,Food,21.67,2024-07-05,2024-09-09,940,Email,Window seem detail the need.
+740,Fashion-3271,LoyaltyPoints,Travel,40,2024-02-06,2024-08-30,338,SMS,Will dog purpose activity great available citizen analysis.
+741,Food-5745,Coupon,Fashion,37.42,2025-01-31,2025-10-22,890,Email,Pay media put agency.
+742,Food-1800,LoyaltyPoints,Electronics,7.21,2024-06-29,2024-09-11,442,SMS,In present town same.
+743,Travel-3296,Discount,Fashion,21.11,2023-12-03,2024-10-18,603,Email,Season part firm summer.
+744,Travel-9241,Coupon,Entertainment,16.56,2024-01-07,2024-06-27,933,Email,Voice quickly necessary hear.
+745,Food-2142,LoyaltyPoints,Travel,28.3,2024-03-28,2025-03-01,876,Website,Interesting watch make week director guy feel.
+746,Food-8602,LoyaltyPoints,Electronics,15.59,2025-01-16,2025-11-15,505,App,Laugh fact western risk relate final might.
+747,Entertainment-8582,Coupon,Fashion,46.67,2024-02-27,2024-05-17,118,Website,Site group soldier listen decade course three east.
+748,Electronics-3403,Coupon,Fashion,44.59,2024-05-07,2024-11-30,963,Email,Knowledge current operation kitchen why plant church.
+749,Entertainment-6727,Coupon,Fashion,32.49,2025-01-21,2025-12-21,696,App,Road voice animal relate case write very.
+750,Electronics-6589,Cashback,Travel,34.81,2024-03-22,2024-07-25,945,Website,Summer enter watch provide.
+751,Travel-4949,Discount,Fashion,14.31,2024-12-20,2025-07-13,968,SMS,Image bag executive what.
+752,Travel-3405,Coupon,Electronics,11.52,2024-07-17,2025-05-27,515,Email,Politics indeed sort lay.
+753,Food-5798,Cashback,Food,26.45,2023-10-21,2025-02-06,366,Email,Feeling picture in light sport believe.
+754,Electronics-4663,LoyaltyPoints,Travel,47.69,2024-06-14,2024-11-23,291,App,Hope turn talk bank.
+755,Travel-4540,Discount,Food,48.42,2025-01-20,2025-11-02,55,SMS,Find image up entire left reveal travel.
+756,Electronics-5923,LoyaltyPoints,Electronics,7.38,2023-12-27,2025-10-30,769,App,Look simply box traditional bill fast plan.
+757,Entertainment-3543,Cashback,Food,12.15,2024-01-30,2025-07-20,864,App,Check wall whom site together article stage.
+758,Food-4938,Cashback,Electronics,21.34,2023-08-07,2025-04-22,553,App,Suffer bad there lose.
+759,Travel-7340,LoyaltyPoints,Food,37.79,2024-01-08,2025-08-17,610,Email,Car evening maybe lose back.
+760,Entertainment-3818,Coupon,Travel,6.77,2025-03-11,2025-07-14,492,App,Trouble want chance skill partner country field.
+761,Food-5595,Coupon,Entertainment,38.44,2025-07-07,2025-11-22,469,App,Option friend side plan.
+762,Fashion-3240,Cashback,Entertainment,37.03,2025-06-01,2026-01-03,526,Website,Time number race every art game.
+763,Electronics-3342,Cashback,Fashion,10.79,2025-05-08,2025-11-10,989,App,When rest shoulder back garden according structure.
+764,Travel-7326,Discount,Food,26.07,2025-03-27,2025-09-20,589,SMS,Improve factor toward police.
+765,Travel-6177,LoyaltyPoints,Food,15.64,2024-06-11,2025-10-01,786,App,Weight learn prepare.
+766,Travel-1776,Coupon,Electronics,30.36,2024-04-18,2025-12-04,136,Email,Sit candidate western hear situation.
+767,Travel-7963,Coupon,Travel,25.32,2024-12-27,2025-05-03,57,Website,No physical require sing trade put general.
+768,Food-2061,LoyaltyPoints,Electronics,9.37,2025-01-22,2025-02-08,499,SMS,Recently personal north probably space work.
+769,Electronics-2933,Coupon,Travel,18.8,2024-12-14,2025-03-16,337,SMS,Yeah resource but his.
+770,Electronics-9975,Coupon,Food,31.49,2025-03-06,2025-03-12,857,Website,Yes follow whatever worker thank.
+771,Entertainment-7437,Cashback,Electronics,24.87,2025-07-08,2025-08-17,485,Website,Candidate somebody political value team this.
+772,Electronics-7406,Coupon,Food,9.96,2025-05-05,2025-11-09,909,Website,Adult year pass window leg agreement despite.
+773,Fashion-7162,Discount,Travel,15.26,2025-04-08,2025-10-13,935,Website,Dog box medical dark enough.
+774,Food-1393,Discount,Travel,44.36,2023-09-24,2024-03-18,449,Website,Deep girl crime road price.
+775,Entertainment-3847,Discount,Travel,34.76,2024-08-09,2024-08-11,344,SMS,Heart successful foreign also black century here.
+776,Entertainment-4159,Discount,Fashion,44.04,2023-12-30,2025-12-18,672,SMS,Stock pressure answer try.
+777,Fashion-5661,LoyaltyPoints,Fashion,17.09,2025-03-18,2025-07-03,999,App,Several indicate still opportunity blood interest heart.
+778,Entertainment-2549,Coupon,Travel,18.3,2023-08-30,2024-11-27,669,App,Break author crime certainly your try low human.
+779,Travel-2164,Cashback,Food,18.78,2023-10-16,2025-11-04,369,SMS,From sea board sure whether.
+780,Fashion-8675,LoyaltyPoints,Electronics,46.31,2023-09-07,2023-09-22,947,Website,Fire stuff per this information.
+781,Fashion-9131,Coupon,Fashion,19.61,2023-10-23,2024-09-02,703,SMS,Piece stay home wind through lay small list.
+782,Travel-8051,Coupon,Fashion,45.94,2024-12-23,2025-02-28,666,Email,Word have city officer seek including.
+783,Entertainment-5546,Cashback,Travel,44.55,2025-03-24,2025-04-25,604,SMS,Professional vote whose enough mention.
+784,Entertainment-2713,Discount,Travel,32.78,2025-05-03,2025-11-21,548,App,Process meeting however throw worry note job.
+785,Electronics-6635,LoyaltyPoints,Food,27.44,2024-01-27,2024-03-20,954,App,Blue indeed phone bad increase interesting.
+786,Food-8509,Coupon,Electronics,30.12,2024-05-28,2025-01-05,63,App,Laugh with another say leader.
+787,Fashion-6707,Cashback,Entertainment,9.36,2024-10-14,2024-11-04,606,Website,Others eight chair there miss.
+788,Fashion-6157,Cashback,Entertainment,23.47,2024-02-25,2025-11-01,268,SMS,Size somebody police final center compare.
+789,Entertainment-6753,LoyaltyPoints,Entertainment,35.32,2023-08-03,2025-11-26,540,App,Structure candidate issue financial last financial.
+790,Electronics-9321,Coupon,Food,5.15,2025-01-12,2025-05-01,609,SMS,Computer rather response dark should southern.
+791,Travel-2270,Coupon,Entertainment,26.18,2023-12-25,2024-06-13,152,App,You size land leave summer media defense.
+792,Travel-9480,Discount,Fashion,42.92,2024-01-02,2025-03-31,86,Email,Always address per young.
+793,Food-3597,Coupon,Entertainment,9.22,2023-10-03,2024-04-13,486,App,Financial together animal forward can car garden.
+794,Fashion-3564,Cashback,Food,16.02,2025-05-28,2025-08-25,457,Email,Hair part politics care on defense world.
+795,Food-8587,LoyaltyPoints,Electronics,47.58,2024-02-12,2024-06-15,548,Email,Decide Mrs never ability half.
+796,Electronics-3940,Cashback,Fashion,33.11,2023-08-11,2025-11-04,822,SMS,World news only whole meet need.
+797,Fashion-8860,LoyaltyPoints,Electronics,39.55,2024-05-14,2025-05-20,999,Website,Reason high pretty.
+798,Electronics-3717,Coupon,Entertainment,8.32,2023-10-06,2025-08-23,672,SMS,Strong break hard reveal remain.
+799,Food-8209,LoyaltyPoints,Food,26.78,2025-01-03,2025-01-04,257,SMS,Cover range lay how wife.
+800,Travel-2475,LoyaltyPoints,Electronics,18.1,2023-10-12,2024-05-08,320,App,Feel also Democrat him easy simple.
+801,Travel-9662,Discount,Fashion,31.03,2023-08-17,2025-09-09,853,App,List one trade special these feel.
+802,Fashion-6304,Coupon,Entertainment,46.7,2023-10-06,2025-12-27,506,Website,Hour why institution stop pass any step.
+803,Travel-6487,Discount,Travel,22.48,2024-08-24,2025-05-06,528,Website,Close first very nature.
+804,Food-9887,LoyaltyPoints,Entertainment,21.22,2025-06-05,2025-11-15,70,SMS,Record century along power significant set old.
+805,Electronics-1906,Coupon,Food,10.66,2024-09-06,2025-04-22,484,SMS,Source authority risk world expect tax.
+806,Travel-3151,Discount,Fashion,44.31,2023-11-14,2025-12-03,404,Email,Attorney before clear single concern performance.
+807,Entertainment-2559,Cashback,Electronics,9.08,2023-07-23,2025-07-30,961,Website,Provide various grow.
+808,Electronics-4105,Coupon,Entertainment,27.26,2024-04-11,2024-06-16,557,Website,Other maintain knowledge according before respond hundred.
+809,Entertainment-7991,Discount,Fashion,10.08,2023-12-06,2025-06-19,778,Website,Plan box similar skin.
+810,Fashion-6399,LoyaltyPoints,Food,27.41,2025-01-26,2025-10-19,345,Website,Word and about me capital.
+811,Travel-8229,Coupon,Electronics,21.95,2024-01-09,2024-08-20,763,App,Money song Democrat all.
+812,Entertainment-9225,Coupon,Travel,39.11,2024-12-17,2025-11-17,390,App,Than tree simply sort carry those.
+813,Electronics-8676,Discount,Entertainment,30.05,2025-05-26,2025-11-15,399,Website,Take guy game reality task though.
+814,Entertainment-1751,Coupon,Travel,38.13,2025-03-18,2025-05-18,267,Email,Mother network church.
+815,Travel-4961,Cashback,Food,27.29,2024-09-03,2025-02-13,473,App,Adult drop citizen serious southern eye.
+816,Fashion-8591,Cashback,Entertainment,9.09,2024-11-26,2025-08-30,257,Email,Big growth like wish prove hand.
+817,Entertainment-4954,Discount,Electronics,49,2025-06-08,2025-08-10,465,SMS,Skill culture change able draw herself.
+818,Travel-3962,Coupon,Travel,26.81,2023-09-07,2024-03-27,119,Website,Goal doctor fly social.
+819,Fashion-3967,Coupon,Electronics,17.78,2025-05-31,2025-12-22,357,SMS,Quite ball tell me.
+820,Entertainment-2172,Coupon,Electronics,24.11,2024-05-28,2025-05-10,562,Email,Million important series.
+821,Food-6296,Discount,Electronics,40.16,2025-03-17,2026-01-05,331,App,Where administration well fly successful cover watch.
+822,Fashion-2549,LoyaltyPoints,Food,48.62,2025-01-28,2025-08-26,681,App,Magazine pretty its rather recognize soldier civil.
+823,Electronics-7790,Cashback,Entertainment,34.41,2023-10-26,2025-01-01,107,App,Other cover perform foreign effort environment region clear.
+824,Entertainment-3873,Discount,Fashion,35.83,2025-05-29,2025-08-24,351,SMS,Level color character.
+825,Entertainment-4881,Coupon,Entertainment,7.72,2024-02-18,2024-03-27,824,Email,Professional enough ready half production college worker leave.
+826,Fashion-2743,LoyaltyPoints,Fashion,15.7,2023-09-24,2026-01-12,595,SMS,Option affect threat each wall now option but.
+827,Travel-5362,Discount,Entertainment,48.98,2023-10-20,2024-01-23,102,App,Building number method.
+828,Electronics-2649,Cashback,Food,9.57,2024-12-23,2025-01-20,555,Website,Democratic mind only Mrs believe.
+829,Entertainment-6594,Coupon,Travel,17.97,2024-04-03,2024-08-28,162,Website,Fine consider own politics safe.
+830,Electronics-5674,Coupon,Fashion,36.47,2025-03-10,2025-10-26,78,App,Prevent stage million those.
+831,Food-6617,LoyaltyPoints,Entertainment,5.86,2023-08-23,2024-04-25,372,Email,What deal agree answer.
+832,Travel-1404,Cashback,Electronics,6.82,2025-07-12,2025-11-21,684,Website,Serious force great recognize.
+833,Travel-2423,Cashback,Electronics,18.14,2023-09-03,2024-05-28,434,Website,Which rule ground deal.
+834,Food-7558,Coupon,Food,6.47,2024-08-10,2025-09-17,909,SMS,Into today current central themselves small style environmental.
+835,Travel-6245,Discount,Fashion,32.16,2025-07-12,2025-12-23,656,App,Good beautiful entire bag.
+836,Food-9232,Cashback,Fashion,43.68,2024-07-16,2025-12-23,432,Website,Land listen Republican.
+837,Entertainment-4942,Discount,Food,24.84,2024-05-12,2025-12-18,941,Email,Of order goal forget notice why.
+838,Electronics-7701,Cashback,Entertainment,7,2024-05-01,2025-08-10,903,Email,Writer decade act.
+839,Entertainment-3942,LoyaltyPoints,Travel,42.46,2024-09-13,2024-10-04,448,Email,Current behavior person.
+840,Fashion-4749,Cashback,Travel,10.98,2023-09-15,2024-03-16,124,Website,Determine teacher street rate moment.
+841,Travel-4719,Coupon,Food,18.72,2023-10-28,2023-11-07,558,App,Or debate culture help for law one police.
+842,Entertainment-4869,Discount,Travel,31.58,2023-10-03,2024-09-23,921,Email,Hour physical behavior unit small.
+843,Entertainment-5487,Discount,Entertainment,29.92,2024-08-05,2025-02-12,799,Email,Include smile particularly subject science agreement.
+844,Food-8392,Discount,Entertainment,40.35,2024-04-09,2025-01-17,958,Email,Military close most particularly performance near.
+845,Travel-5386,Cashback,Entertainment,44.03,2024-11-17,2025-09-03,752,App,Require turn society summer.
+846,Fashion-4088,LoyaltyPoints,Electronics,43.93,2024-05-22,2025-08-21,385,App,Ask both thought probably bring outside safe.
+847,Travel-4813,Coupon,Electronics,34.35,2023-09-10,2025-05-03,387,App,Before police thing should light.
+848,Electronics-2750,Coupon,Fashion,24.62,2024-02-06,2024-04-01,254,Email,Learn wonder grow happy wonder image her every.
+849,Electronics-1038,Cashback,Travel,30.83,2023-09-17,2024-07-20,300,Email,Call hospital sense experience east.
+850,Travel-4852,Coupon,Travel,36.71,2023-08-29,2023-09-13,642,Email,Open bit together require series finally.
+851,Food-4907,Coupon,Food,6.37,2024-09-16,2025-08-01,692,App,Smile it general race peace operation how.
+852,Travel-2074,Cashback,Fashion,41.48,2024-03-17,2025-05-26,257,Email,Conference own kind eat age.
+853,Electronics-7160,Cashback,Travel,13.4,2024-01-17,2025-06-25,307,Email,Material role whatever interview raise product particularly.
+854,Fashion-2087,LoyaltyPoints,Food,26.75,2025-04-12,2025-08-28,63,App,Dark put bag defense appear less.
+855,Electronics-9434,Discount,Travel,43.37,2025-05-01,2025-10-11,545,App,From able difficult difference American room radio.
+856,Electronics-1643,Coupon,Fashion,24.78,2024-08-04,2025-01-12,755,Email,Once contain center available investment space.
+857,Food-3658,Discount,Travel,45.74,2025-04-22,2025-10-19,321,Website,Threat region choose question charge produce manage positive.
+858,Travel-5204,Coupon,Entertainment,16.36,2023-09-01,2024-06-24,220,Email,American first seat during partner smile type.
+859,Entertainment-4742,LoyaltyPoints,Food,25.97,2024-02-26,2025-04-23,690,Email,Sense area entire.
+860,Food-6179,LoyaltyPoints,Fashion,15.93,2024-10-04,2025-02-13,360,SMS,Speech response why fall country.
+861,Fashion-4334,Discount,Fashion,10.03,2024-06-29,2025-10-04,407,App,Capital politics remain program mind ahead religious field.
+862,Food-4504,Coupon,Fashion,21.03,2023-12-27,2025-02-06,845,Email,Responsibility benefit network where.
+863,Entertainment-4772,LoyaltyPoints,Travel,30.84,2023-08-30,2024-01-07,741,Website,Have shake home area wait above.
+864,Fashion-3902,Cashback,Food,24.24,2024-07-13,2024-09-24,493,App,Century them enough candidate ground stock left foreign.
+865,Fashion-5705,LoyaltyPoints,Electronics,12.02,2023-08-30,2023-11-16,282,Website,Type bring rest will agency last by.
+866,Food-3791,Coupon,Entertainment,38.28,2025-04-17,2025-04-28,133,App,Walk performance since would lead manage call pick.
+867,Electronics-5904,Discount,Fashion,37.19,2024-09-19,2024-10-27,188,Website,Magazine consumer institution camera control.
+868,Food-7749,LoyaltyPoints,Travel,33.5,2024-09-08,2025-08-05,708,SMS,Beyond get PM police.
+869,Travel-4941,Cashback,Electronics,31.25,2024-05-25,2024-06-22,799,Email,Operation trial dark.
+870,Travel-4541,LoyaltyPoints,Travel,29.98,2023-10-17,2025-12-16,292,Email,Boy which American benefit war.
+871,Travel-4663,LoyaltyPoints,Entertainment,12.09,2025-06-04,2025-07-16,763,Email,Agent range research require.
+872,Entertainment-3896,LoyaltyPoints,Travel,36.61,2024-10-21,2024-12-10,957,Website,International watch kind final take if traditional sense.
+873,Electronics-9217,Discount,Entertainment,8.51,2024-06-01,2025-11-17,582,App,Popular official task news take.
+874,Entertainment-2515,LoyaltyPoints,Food,44.68,2024-08-12,2024-12-08,103,App,Guess painting PM.
+875,Fashion-5217,Discount,Entertainment,44.95,2024-02-19,2025-04-05,331,Website,Discover first senior write.
+876,Travel-4632,Coupon,Food,41.04,2024-07-28,2025-05-26,654,Website,Source time view series thing recognize.
+877,Food-2524,Discount,Electronics,46.13,2024-10-05,2024-11-03,254,SMS,Edge since glass less improve our.
+878,Travel-4553,LoyaltyPoints,Electronics,13.92,2024-04-27,2025-02-28,397,SMS,Water job politics leave thousand building necessary face.
+879,Fashion-7562,Cashback,Food,41.47,2023-12-07,2025-06-10,138,App,Less leg throughout stage admit no everybody.
+880,Fashion-1542,Cashback,Food,12.51,2024-07-14,2025-08-24,69,Website,Really million speak ball technology.
+881,Fashion-6378,Cashback,Food,10.01,2024-08-23,2024-09-18,746,SMS,Draw suffer election coach hit yourself.
+882,Electronics-1927,LoyaltyPoints,Fashion,37.83,2023-09-20,2025-07-09,427,Website,Game result son huge we common actually.
+883,Food-5799,LoyaltyPoints,Travel,31.25,2024-12-31,2025-03-27,836,App,Generation sell window side kid partner.
+884,Fashion-7985,Cashback,Travel,38.13,2024-10-04,2025-07-13,575,Website,Fact rather might quite executive.
+885,Travel-4687,Coupon,Entertainment,32.25,2025-07-04,2025-09-10,168,SMS,Fast five method evidence issue yourself trip.
+886,Travel-8004,Discount,Fashion,9.68,2024-01-02,2025-02-03,267,SMS,Suffer wish TV different light easy language.
+887,Travel-5388,Discount,Entertainment,47.66,2023-12-29,2025-10-06,470,Email,Human step myself institution five institution.
+888,Travel-3483,Cashback,Electronics,23.12,2023-10-07,2025-01-13,646,Website,Weight business peace less.
+889,Travel-7013,LoyaltyPoints,Fashion,43.59,2023-09-06,2024-02-29,846,Email,Tv himself former interview southern.
+890,Electronics-1561,LoyaltyPoints,Food,44.52,2024-10-25,2025-12-12,132,Email,School camera character case third.
+891,Entertainment-2805,Discount,Food,33.77,2023-11-23,2024-12-10,684,Website,About bring often always product.
+892,Food-3569,LoyaltyPoints,Food,14.63,2025-05-03,2025-05-17,181,Email,Do environmental couple material task yes.
+893,Fashion-3932,Coupon,Fashion,36.64,2024-03-29,2025-07-25,351,SMS,Break skill space various.
+894,Food-6918,Cashback,Travel,18.2,2024-01-07,2024-11-01,540,SMS,Night prevent market should.
+895,Fashion-2076,Discount,Fashion,34.61,2025-01-29,2025-08-06,947,Email,Sort look agree line.
+896,Food-5235,LoyaltyPoints,Travel,10.27,2024-12-14,2025-08-07,338,App,Remember material him Mrs identify hand.
+897,Electronics-2796,Cashback,Electronics,14.03,2024-07-21,2024-10-03,562,App,Structure and impact back trial.
+898,Electronics-2738,LoyaltyPoints,Travel,16.84,2025-06-16,2025-09-19,710,SMS,Significant current research recognize.
+899,Fashion-8000,LoyaltyPoints,Food,30.95,2023-12-03,2024-07-22,366,Email,Lot billion power agreement movement American hospital.
+900,Electronics-1899,Coupon,Food,27.14,2023-08-31,2025-10-29,71,Website,Church man her action.
+901,Electronics-7724,Coupon,Fashion,20.35,2025-02-17,2025-05-25,117,Website,Sense performance site those break decision appear occur.
+902,Fashion-6515,LoyaltyPoints,Fashion,42.68,2023-08-16,2024-01-28,231,Email,Then crime much type send admit.
+903,Electronics-7448,Coupon,Entertainment,22.4,2025-07-13,2025-09-05,777,Email,Leg will company science.
+904,Fashion-4393,Discount,Travel,44.75,2025-06-08,2026-01-17,314,Email,Lot help social win generation cut look.
+905,Entertainment-2480,Discount,Entertainment,38.69,2024-02-19,2024-08-29,477,Email,President happy effect enough collection relate fire.
+906,Electronics-8959,Cashback,Fashion,33.08,2024-05-23,2024-10-17,888,Email,Several something low group owner bank visit.
+907,Travel-7332,Cashback,Electronics,26.82,2023-09-08,2024-07-19,470,Email,Challenge win similar professional.
+908,Travel-4748,LoyaltyPoints,Food,5.14,2024-11-28,2024-12-06,299,Website,Leader close morning computer role.
+909,Food-1057,Discount,Travel,49.39,2025-04-25,2025-12-30,513,App,Wonder between series perhaps grow policy probably.
+910,Electronics-8280,Discount,Fashion,32.79,2025-02-15,2025-11-28,174,Website,In black or present and want might.
+911,Electronics-5993,LoyaltyPoints,Fashion,26.13,2024-07-18,2024-08-23,265,Email,Listen positive year hold.
+912,Fashion-8582,LoyaltyPoints,Entertainment,6.78,2023-12-29,2024-09-08,319,App,Management gun whether enough.
+913,Entertainment-1401,LoyaltyPoints,Fashion,8.3,2023-11-19,2025-07-15,677,Website,Thank and direction value everything doctor large.
+914,Fashion-6632,Cashback,Fashion,42.92,2024-04-26,2025-06-17,511,Website,Could become behavior black idea short marriage.
+915,Food-7864,Cashback,Travel,16.48,2024-02-29,2024-02-29,259,Email,Throw meeting herself enjoy.
+916,Entertainment-7783,Discount,Travel,8.96,2024-01-12,2024-02-26,183,SMS,From majority teach international up contain.
+917,Travel-1942,Cashback,Travel,27.15,2024-12-26,2025-02-11,545,Website,Opportunity history significant.
+918,Food-7017,LoyaltyPoints,Fashion,5.78,2023-11-02,2025-01-03,314,Website,Wonder goal ball production state.
+919,Electronics-4492,LoyaltyPoints,Travel,25.04,2024-02-18,2024-04-07,354,App,Rate prove job true material always hard.
+920,Fashion-7507,Cashback,Travel,26.22,2024-11-21,2025-04-18,515,Email,Body prove market probably relationship player there.
+921,Fashion-5650,Coupon,Travel,17,2024-04-13,2024-11-16,353,Website,Inside with because unit management economic give.
+922,Electronics-4092,LoyaltyPoints,Entertainment,19.56,2024-12-09,2024-12-14,532,SMS,Turn spring none.
+923,Entertainment-1229,Cashback,Food,33.39,2025-07-17,2025-07-23,108,Email,Carry time production he picture.
+924,Travel-9802,LoyaltyPoints,Entertainment,43.41,2024-04-22,2025-10-17,459,Website,Least subject alone imagine policy.
+925,Travel-3259,Coupon,Travel,17.16,2025-06-02,2025-07-11,397,Email,Guy season indicate something as believe.
+926,Food-8338,Cashback,Fashion,43.08,2025-05-26,2025-12-02,243,SMS,Forget Democrat girl bank item.
+927,Fashion-5682,Cashback,Fashion,20.46,2025-07-12,2025-12-05,785,SMS,Development degree letter help.
+928,Electronics-7277,Discount,Electronics,18.96,2024-05-02,2025-10-05,689,SMS,Size get trial certain issue rather.
+929,Travel-8493,LoyaltyPoints,Travel,38.33,2023-12-09,2025-04-22,996,App,Still morning tonight director often.
+930,Electronics-2958,Discount,Food,7.72,2024-04-11,2025-12-08,521,App,Hospital threat artist will.
+931,Entertainment-2376,Discount,Food,6.29,2024-02-15,2024-08-10,680,Email,She knowledge attorney local first everybody.
+932,Fashion-7005,Coupon,Travel,39.05,2024-12-02,2025-03-29,946,App,Next environment value guess yourself hair card develop.
+933,Entertainment-4507,LoyaltyPoints,Fashion,18.34,2024-08-14,2025-10-29,423,SMS,Discuss face serve question get.
+934,Food-2956,Cashback,Food,10.85,2024-05-01,2024-09-25,452,Email,Throughout worry anything space.
+935,Food-6593,Cashback,Travel,12.49,2024-05-17,2025-07-23,176,App,Eat Congress early.
+936,Travel-1032,Discount,Fashion,25.72,2025-04-08,2025-07-06,276,Website,Full like give future would hotel.
+937,Food-6658,LoyaltyPoints,Electronics,13.87,2023-10-16,2025-06-15,804,App,Southern course popular receive information choice.
+938,Travel-2790,Cashback,Entertainment,10.2,2023-07-28,2024-05-29,898,Email,Beautiful kitchen address ready every.
+939,Fashion-1303,Coupon,Travel,38.96,2024-05-15,2024-10-31,199,SMS,Mother cold country world outside if.
+940,Fashion-6605,Cashback,Entertainment,10.29,2023-12-19,2024-08-28,434,Email,Mean risk wonder environment institution course everything.
+941,Entertainment-9871,Cashback,Fashion,34.2,2023-10-08,2024-12-21,975,Email,Affect get record may purpose adult order call.
+942,Travel-7924,Discount,Entertainment,43.69,2025-01-12,2025-07-30,387,Email,Quite play run recent.
+943,Entertainment-5359,Coupon,Entertainment,9.8,2025-02-12,2025-04-11,401,Email,Small truth when.
+944,Travel-7752,Coupon,Electronics,5.14,2025-07-12,2026-01-08,109,App,Direction thousand difference investment would work suffer.
+945,Entertainment-4132,Cashback,Food,29.48,2023-12-11,2024-11-20,380,Website,Of can member most.
+946,Fashion-8198,Coupon,Entertainment,16.41,2024-07-31,2025-07-28,578,App,Admit current first create approach.
+947,Food-9656,Coupon,Fashion,47.07,2024-09-06,2025-07-26,403,App,Letter know day left listen ability reflect.
+948,Fashion-4406,LoyaltyPoints,Food,30.66,2023-10-31,2023-12-10,455,SMS,Science physical traditional role.
+949,Food-9698,Coupon,Travel,48.85,2024-09-28,2025-02-17,878,Email,Choose kind available sure material force another.
+950,Fashion-4777,Discount,Travel,26.39,2024-08-12,2025-03-22,436,SMS,Follow top heart character seven walk.
+951,Fashion-4532,LoyaltyPoints,Food,36.46,2024-03-16,2025-12-12,299,Email,Whom trial personal move usually.
+952,Food-9312,LoyaltyPoints,Fashion,27.88,2025-04-22,2025-09-08,664,Website,Mr government test drive find order example.
+953,Travel-5078,Discount,Electronics,21.79,2023-11-08,2024-01-26,334,SMS,Entire trip interesting nor wind commercial work get.
+954,Entertainment-2477,LoyaltyPoints,Food,14.49,2025-01-18,2025-06-01,462,Website,Strategy kind community.
+955,Electronics-9647,LoyaltyPoints,Travel,31.96,2025-03-23,2025-04-09,951,Email,Situation side wear process cell continue.
+956,Electronics-6405,Cashback,Entertainment,38.6,2025-04-21,2025-07-21,466,SMS,South he try begin education question she.
+957,Electronics-8358,Discount,Electronics,11.33,2023-12-30,2025-12-20,593,Email,Attention hour program relate traditional however including young.
+958,Food-5287,Discount,Fashion,19.77,2023-10-26,2024-08-09,966,Website,My above pay.
+959,Food-1604,Discount,Entertainment,45.04,2024-01-25,2025-05-27,727,SMS,Source heart wife sell compare serve trade.
+960,Electronics-4649,Cashback,Food,19.98,2025-01-27,2025-05-09,897,SMS,Stop house stuff strong strong specific.
+961,Entertainment-8484,Discount,Electronics,48.78,2024-03-10,2025-12-01,949,SMS,Against laugh likely.
+962,Travel-6257,Coupon,Fashion,18.25,2024-08-26,2024-10-21,483,App,Community outside purpose same nearly however.
+963,Food-1016,Coupon,Electronics,20.9,2024-11-22,2026-01-14,197,Email,Bit window use blood rise report pretty same.
+964,Travel-1652,LoyaltyPoints,Electronics,38.23,2024-03-07,2025-10-20,427,App,Career behind big meet message.
+965,Entertainment-3104,Coupon,Fashion,45.44,2024-09-17,2025-09-03,344,Email,Either cost former little.
+966,Travel-5792,Coupon,Food,22.31,2025-01-03,2025-07-12,291,SMS,Yet sound enough knowledge.
+967,Food-1536,Coupon,Travel,23.22,2024-03-11,2024-12-07,492,App,Suddenly choice movie it majority myself study affect.
+968,Travel-5735,Coupon,Travel,45.68,2024-05-31,2025-03-01,471,SMS,Say discover amount just peace PM skill.
+969,Fashion-5644,Cashback,Travel,35.73,2024-02-20,2025-08-09,990,Email,None like relationship laugh year wait board.
+970,Food-2888,Discount,Fashion,42.25,2023-12-14,2025-04-09,169,SMS,He because rule truth science century.
+971,Food-7966,LoyaltyPoints,Food,42.65,2024-07-13,2024-09-25,545,SMS,She indicate away certainly drive.
+972,Electronics-2581,Discount,Entertainment,22.75,2024-01-17,2024-06-27,919,Email,Environmental degree effort many.
+973,Travel-1400,Cashback,Travel,47.39,2023-12-29,2024-02-05,843,Website,Back last call religious.
+974,Travel-2453,Cashback,Travel,29.05,2024-10-01,2026-01-05,349,Email,Indeed food heavy.
+975,Travel-2368,Cashback,Food,38.25,2024-09-29,2025-02-28,965,App,Food protect perhaps clearly military actually each future.
+976,Entertainment-3276,LoyaltyPoints,Entertainment,5.55,2025-03-06,2025-04-27,766,Website,Real floor as trial economic activity leave world.
+977,Food-3445,Discount,Entertainment,21.52,2023-10-02,2025-11-11,473,Email,Moment get agency international describe assume themselves.
+978,Fashion-7116,Discount,Electronics,24.98,2023-09-30,2023-11-21,610,SMS,Relate future authority agreement energy.
+979,Entertainment-6770,Coupon,Fashion,34.44,2025-01-29,2026-01-15,302,Website,Know lot church I after own learn.
+980,Entertainment-3469,Discount,Travel,49.84,2023-11-08,2025-12-22,918,Website,May be whom.
+981,Food-1874,Coupon,Fashion,28.95,2024-11-18,2025-01-22,851,App,Know need billion wear feeling prevent standard look.
+982,Fashion-3497,Cashback,Electronics,7.12,2025-04-21,2025-11-03,998,Email,Impact upon she various nearly.
+983,Travel-1761,Cashback,Food,28.46,2024-01-29,2025-10-04,852,Website,Attack major deal occur early beat once.
+984,Entertainment-8073,LoyaltyPoints,Electronics,17,2024-11-03,2025-02-21,88,App,Tax indeed far image race such very.
+985,Travel-8626,LoyaltyPoints,Electronics,25.4,2025-04-07,2025-05-28,679,Website,Style some give young leave.
+986,Food-1040,LoyaltyPoints,Electronics,34.71,2023-10-13,2024-09-03,637,SMS,Provide wind point anyone leg sort.
+987,Fashion-5238,LoyaltyPoints,Fashion,35.39,2023-08-24,2025-07-03,959,Email,Project current make instead.
+988,Entertainment-1490,Coupon,Travel,30.02,2025-03-15,2025-08-31,52,Website,Community side rate with shoulder.
+989,Entertainment-6595,Coupon,Entertainment,25.13,2024-03-23,2025-11-02,845,App,Around save response leave indicate beautiful here across.
+990,Food-9484,Coupon,Travel,48.96,2024-11-26,2024-12-31,530,Email,Skill four history stay.
+991,Fashion-3006,Cashback,Food,21.17,2025-06-03,2025-08-13,655,SMS,This state yourself.
+992,Fashion-6088,Cashback,Travel,17.82,2025-03-03,2025-07-17,434,SMS,First myself say agree early.
+993,Entertainment-5262,Discount,Food,14.98,2024-07-09,2025-07-03,567,Website,Know grow civil scene me form possible.
+994,Fashion-7583,Discount,Travel,32.06,2023-10-21,2025-05-22,574,App,Evening edge hope require.
+995,Travel-8732,Coupon,Travel,27.57,2024-09-17,2025-05-18,443,Email,Report lay interview relate word.
+996,Travel-6998,Cashback,Electronics,41.01,2024-12-13,2025-11-24,338,Website,Good agreement political.
+997,Electronics-3918,Coupon,Electronics,42.32,2024-09-11,2025-12-15,371,App,Yet perform high try ready civil.
+998,Food-5306,LoyaltyPoints,Fashion,28.9,2025-05-31,2025-12-08,923,App,Ten increase chair approach manager.
+999,Entertainment-5985,Coupon,Travel,46.06,2024-01-19,2025-12-14,454,Email,While right own note public claim notice.
+1000,Travel-1726,Coupon,Electronics,30.6,2025-04-25,2025-07-24,753,App,Debate rich plant seem.
