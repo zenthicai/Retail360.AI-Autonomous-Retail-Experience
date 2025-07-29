@@ -6,4 +6,4 @@ pandas
 gTTS
 pygame
 plotly
-deepface==0.0.28
+deepface
