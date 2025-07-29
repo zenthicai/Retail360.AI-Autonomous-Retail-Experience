@@ -5,5 +5,5 @@ mysql-connector-python
 pandas
 gTTS
 pygame
-deepface==0.0.28
 plotly
+deepface==0.0.28
