@@ -5,7 +5,6 @@ mysql-connector-python
 pandas
 gTTS
 pygame
-deepface
+deepface==0.0.93
 plotly
-tensorflow==2.11.0
-deepface==0.0.79
+tensorflow==2.13.0
