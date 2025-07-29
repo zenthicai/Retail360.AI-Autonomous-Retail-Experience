@@ -25,12 +25,13 @@ Retail360.AI is an intelligent retail entry system built using **Streamlit** and
 ```
 Retail360-App/
 │
-├── data/                   # Csv files 
+├── data/                   # Csv files (e.g., customers.csv,orders.csv)
 |   └── ...
-├── app.py                  # Main Streamlit app
-├── requirements.txt        # Required Python packages
 ├── face_images/            # Stored face images (e.g., 1_face.jpg)
 │    └── ...
+├── app.py                  # Main Streamlit app
+├── requirements.txt        # Required Python packages
+├── retail360degree.sql     # SQL Script
 └── README.md               # Project documentation
 ```
 
