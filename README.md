@@ -92,14 +92,6 @@ streamlit run app.py
 
 ---
 
-## ✨ Screenshots
-
-| Face Recognition | Customer Profile | Purchase History |
-|------------------|------------------|------------------|
-| ![face](https://via.placeholder.com/200x120?text=Face+Capture) | ![profile](https://via.placeholder.com/200x120?text=Customer+Profile) | ![history](https://via.placeholder.com/200x120?text=Purchase+History) |
-
----
-
 ## 📢 Acknowledgements
 
 - [Streamlit](https://streamlit.io/)
